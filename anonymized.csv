@@ -1,0 +1,2000 @@
+Name,Gender,Telephone,Postal code,Date of birth,Disease
+*,M,*,N2L *,*-*-1978,Conjunctivitis
+*,M,*,N2L *,*-*-1976,Conjunctivitis
+*,M,*,N2L *,*-*-1966,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1977,Mumps
+*,M,*,N2L *,*-*-1984,Hamburger disease
+*,M,*,N2L *,*-*-1964,Dandy fever
+*,M,*,N2L *,*-*-1972,Amebiasis
+*,M,*,N2L *,*-*-1988,Amebiasis
+*,M,*,N2L *,*-*-1984,Hepatitis B
+*,M,*,N2L *,*-*-1984,Chlamydia psittaci
+*,M,*,N2L *,*-*-1973,Yellow fever
+*,M,*,N2L *,*-*-1976,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1970,Conjunctivitis
+*,M,*,N2L *,*-*-1982,Chlamydial infection
+*,M,*,N2L *,*-*-1983,Diphtheria
+*,M,*,N2L *,*-*-1972,Malaria
+*,M,*,N2L *,*-*-1974,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1961,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1972,Chlamydia
+*,M,*,N2L *,*-*-1980,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1968,Mumps
+*,M,*,N2L *,*-*-1977,Haemophilus Influenza
+*,M,*,N2L *,*-*-1982,Conjunctivitis
+*,M,*,N2L *,*-*-1969,Gingivitis
+*,M,*,N2L *,*-*-1974,Chlamydia
+*,M,*,N2L *,*-*-1980,Endothrix
+*,M,*,N2L *,*-*-1980,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1967,Yellow fever
+*,M,*,N2L *,*-*-1979,Hepatitis B
+*,M,*,N2L *,*-*-1985,Chlamydia psittaci
+*,M,*,N2L *,*-*-1964,Conjunctivitis
+*,M,*,N2L *,*-*-1977,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1975,Amebiasis
+*,M,*,N2L *,*-*-1983,Reiter Syndrome
+*,M,*,N2L *,*-*-1971,Amebiasis
+*,M,*,N2L *,*-*-1977,Chickenpox
+*,M,*,N2L *,*-*-1964,Gingivitis
+*,M,*,N2L *,*-*-1967,Chlamydia psittaci
+*,M,*,N2L *,*-*-1964,Chlamydia
+*,M,*,N2L *,*-*-1969,Amebiasis
+*,M,*,N2L *,*-*-1964,Scarlet fever
+*,M,*,N2L *,*-*-1963,Hepatitis B
+*,M,*,N2L *,*-*-1980,Yellow fever
+*,M,*,N2L *,*-*-1964,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1972,Yellow fever
+*,M,*,N2L *,*-*-1977,Typhoid fever
+*,M,*,N2L *,*-*-1984,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1978,Conjunctivitis
+*,M,*,N2L *,*-*-1978,Scarlet fever
+*,M,*,N2L *,*-*-1982,Chickenpox
+*,M,*,N2L *,*-*-1967,Hepatitis B
+*,M,*,N2L *,*-*-1977,Hepatitis B
+*,M,*,N2L *,*-*-1982,Malaria
+*,M,*,N2L *,*-*-1976,Dandy fever
+*,F,*,N2L *,*-*-1974,Mumps
+*,F,*,N2L *,*-*-1987,Typhoid fever
+*,F,*,N2L *,*-*-1980,Conjunctivitis
+*,M,*,N2L *,*-*-1980,Conjunctivitis
+*,M,*,N2L *,*-*-1960,Chicago disease
+*,M,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1963,Hepatitis B
+*,M,*,N2L *,*-*-1968,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1965,Chickenpox
+*,M,*,N2L *,*-*-1964,Typhoid fever
+*,M,*,N2L *,*-*-1966,Chickenpox
+*,M,*,N2L *,*-*-1973,Chickenpox
+*,M,*,N2L *,*-*-1981,Conjunctivitis
+*,M,*,N2L *,*-*-1975,Gingivitis
+*,M,*,N2L *,*-*-1960,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1965,Hepatitis B
+*,M,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1979,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1978,Hepatitis B
+*,M,*,N2L *,*-*-1964,North American blastomycosis
+*,M,*,N2L *,*-*-1970,Scarlet fever
+*,M,*,N2L *,*-*-1962,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1964,Chickenpox
+*,M,*,N2L *,*-*-1968,Dandy fever
+*,M,*,N2L *,*-*-1963,Chlamydia psittaci
+*,M,*,N2L *,*-*-1965,Avian Influenza
+*,M,*,N2L *,*-*-1964,Conjunctivitis
+*,M,*,N2L *,*-*-1966,Avian Influenza
+*,M,*,N2L *,*-*-1973,Conjunctivitis
+*,M,*,N2L *,*-*-1981,Haemophilus Influenza
+*,M,*,N2L *,*-*-1975,Malaria
+*,M,*,N2L *,*-*-1960,Gingivitis
+*,M,*,N2L *,*-*-1965,Endothrix
+*,M,*,N2L *,*-*-1969,Malaria
+*,M,*,N2L *,*-*-1978,Diphtheria
+*,M,*,N2L *,*-*-1964,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1970,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1962,Mumps
+*,M,*,N2L *,*-*-1964,Typhoid fever
+*,M,*,N2L *,*-*-1962,Typhoid fever
+*,M,*,N2L *,*-*-1964,Chlamydia
+*,M,*,N2L *,*-*-1985,Blastomycosis
+*,M,*,N2L *,*-*-1972,Hepatitis B
+*,M,*,N2L *,*-*-1974,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1961,Tapeworm infections
+*,M,*,N2L *,*-*-1972,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1980,Reiter Syndrome
+*,M,*,N2L *,*-*-1968,Typhoid fever
+*,M,*,N2L *,*-*-1966,Malaria
+*,M,*,N2L *,*-*-1963,Yellow fever
+*,M,*,N2L *,*-*-1982,Hamburger disease
+*,M,*,N2L *,*-*-1984,Chicago disease
+*,M,*,N2L *,*-*-1985,Avian Influenza
+*,M,*,N2L *,*-*-1974,Gingivitis
+*,M,*,N2L *,*-*-1969,Gingivitis
+*,M,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1964,Endothrix
+*,M,*,N2L *,*-*-1975,Tapeworm infections
+*,M,*,N2L *,*-*-1988,Amebiasis
+*,M,*,N2L *,*-*-1961,Yellow fever
+*,M,*,N2L *,*-*-1971,Chlamydia
+*,M,*,N2L *,*-*-1972,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1981,Malaria
+*,M,*,N2L *,*-*-1974,Scarlet fever
+*,M,*,N2L *,*-*-1961,Chickenpox
+*,M,*,N2L *,*-*-1977,Chlamydial infection
+*,F,*,N2L *,*-*-1982,Hepatitis B
+*,F,*,N2L *,*-*-1969,Malaria
+*,F,*,N2L *,*-9-1974,Chickenpox
+*,F,*,N2L *,*-*-1987,Chlamydia
+*,F,*,N2L *,*-*-1980,Gingivitis
+*,F,*,N2L *,*-9-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1979,Blastomycosis
+*,F,*,N2L *,*-*-1985,Chickenpox
+*,F,*,N2L *,*-*-1964,Conjunctivitis
+*,F,*,N2L *,*-*-1977,Chlamydia psittaci
+*,F,*,N2L *,*-*-1975,Typhoid fever
+*,F,*,N2L *,*-*-1983,Malaria
+*,F,*,N2L *,*-*-1971,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1977,Conjunctivitis
+*,F,*,N2L *,*-5-1964,Chickenpox
+*,F,*,N2L *,*-*-1967,Chlamydia
+*,F,*,N2L *,*-5-1964,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1969,Typhoid fever
+*,F,*,N2L *,*-*-1964,Malaria
+*,F,*,N2L *,*-*-1963,Chlamydial infection
+*,F,*,N2L *,*-11-1988,Hepatitis B
+*,F,*,N2L *,*-*-1972,Chickenpox
+*,F,*,N2L *,*-*-1967,Chlamydia
+*,F,*,N2L *,*-*-1975,Chickenpox
+*,F,*,N2L *,*-*-1979,Dandy fever
+*,F,*,N2L *,*-*-1984,Yellow fever
+*,F,*,N2L *,*-*-1978,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1978,Cervical cancer
+*,F,*,N2L *,*-*-1982,Yellow fever
+*,F,*,N2L *,*-*-1967,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1977,North American blastomycosis
+*,F,*,N2L *,*-*-1982,Chicago disease
+*,F,*,N2L *,*-*-1976,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1979,Avian Influenza
+*,F,*,N2L *,*-*-1967,Chlamydia
+*,F,*,N2L *,*-*-1974,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1963,Conjunctivitis
+*,F,*,N2L *,*-*-1974,Typhoid fever
+*,F,*,N2L *,*-*-1975,Avian Influenza
+*,F,*,N2L *,*-*-1966,Chlamydia
+*,M,*,N2L *,*-*-1984,Conjunctivitis
+*,M,*,N2L *,*-*-1980,Hamburger disease
+*,F,*,N2L *,*-*-1978,Chlamydia
+*,F,*,N2L *,*-*-1988,Typhoid fever
+*,F,*,N2L *,*-*-1967,Chlamydial infection
+*,F,*,N2L *,*-*-1978,Chicago disease
+*,F,*,N2L *,*-*-1973,Chickenpox
+*,F,*,N2L *,*-*-1970,Chlamydia
+*,F,*,N2L *,*-*-1984,North American blastomycosis
+*,F,*,N2L *,*-*-1983,Mumps
+*,F,*,N2L *,*-*-1966,Hepatitis B
+*,F,*,N2L *,*-*-1982,Blastomycosis
+*,F,*,N2L *,*-*-1966,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1973,Tapeworm infections
+*,F,*,N2L *,*-*-1968,Chickenpox
+*,F,*,N2L *,*-*-1981,Typhoid fever
+*,F,*,N2L *,*-*-1975,Conjunctivitis
+*,F,*,N2L *,*-*-1974,Malaria
+*,F,*,N2L *,*-*-1961,Cervical cancer
+*,F,*,N2L *,*-*-1978,Typhoid fever
+*,F,*,N2L *,*-*-1980,Yellow fever
+*,F,*,N2L *,*-*-1960,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,Chlamydia psittaci
+*,F,*,N2L *,*-6-1963,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1968,Chlamydia
+*,F,*,N2L *,*-*-1965,Hepatitis B
+*,F,*,N2L *,*-*-1964,Chlamydia
+*,F,*,N2L *,*-*-1966,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1973,Blastomycosis
+*,F,*,N2L *,*-*-1981,Endothrix
+*,F,*,N2L *,*-*-1975,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1960,Endothrix
+*,F,*,N2L *,*-*-1965,Chlamydia
+*,F,*,N2L *,*-*-1969,Dandy fever
+*,F,*,N2L *,*-4-1978,Yellow fever
+*,F,*,N2L *,*-*-1964,Malaria
+*,F,*,N2L *,*-*-1970,German measles
+*,F,*,N2L *,*-*-1962,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1964,Hepatitis B
+*,F,*,N2L *,*-*-1988,Scarlet fever
+*,F,*,N2L *,*-*-1972,Cervical cancer
+*,F,*,N2L *,*-*-1967,Avian Influenza
+*,F,*,N2L *,*-*-1975,Typhoid fever
+*,F,*,N2L *,*-*-1979,Malaria
+*,F,*,N2L *,*-*-1970,Chickenpox
+*,F,*,N2L *,*-*-1980,Conjunctivitis
+*,F,*,N2L *,*-*-1976,Mumps
+*,F,*,N2L *,*-*-1968,Chickenpox
+*,F,*,N2L *,*-5-1964,Malaria
+*,F,*,N2L *,*-5-1988,Conjunctivitis
+*,F,*,N2L *,*-*-1964,Infantile diarrhea
+*,F,*,N2L *,*-*-1969,Typhoid fever
+*,F,*,N2L *,*-*-1964,Endothrix
+*,F,*,N2L *,*-*-1963,Amebiasis
+*,F,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-2-1964,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1964,German measles
+*,F,*,N2L *,*-*-1972,Amebiasis
+*,F,*,N2L *,*-*-1977,Chickenpox
+*,M,*,N2L *,*-*-1985,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1977,Gingivitis
+*,M,*,N2L *,*-*-1988,Endothrix
+*,M,*,N2L *,*-*-1981,Chlamydia
+*,M,*,N2L *,*-*-1971,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1981,Conjunctivitis
+*,M,*,N2L *,*-*-1975,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1974,German measles
+*,M,*,N2L *,*-*-1961,Hepatitis B
+*,M,*,N2L *,*-*-1981,Chickenpox
+*,M,*,N2L *,*-*-1967,Amebiasis
+*,M,*,N2L *,*-*-1966,Chickenpox
+*,M,*,N2L *,*-*-1971,Avian Influenza
+*,M,*,N2L *,*-*-1980,Chickenpox
+*,M,*,N2L *,*-*-1975,Tapeworm infections
+*,M,*,N2L *,*-*-1988,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1970,Chicago disease
+*,M,*,N2L *,*-*-1966,Avian Influenza
+*,M,*,N2L *,*-*-1966,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1978,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1974,Tapeworm infections
+*,M,*,N2L *,*-*-1972,German measles
+*,M,*,N2L *,*-*-1968,Hepatitis B
+*,M,*,N2L *,*-*-1984,Chickenpox
+*,M,*,N2L *,*-*-1964,Chlamydia psittaci
+*,M,*,N2L *,*-*-1973,Chicago disease
+*,M,*,N2L *,*-*-1985,Chicago disease
+*,M,*,N2L *,*-*-1977,Conjunctivitis
+*,M,*,N2L *,*-*-1961,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1963,Gingivitis
+*,M,*,N2L *,*-*-1980,Conjunctivitis
+*,M,*,N2L *,*-*-1985,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1983,German measles
+*,M,*,N2L *,*-*-1962,Typhoid fever
+*,M,*,N2L *,*-*-1962,Mumps
+*,M,*,N2L *,*-*-1977,North American blastomycosis
+*,M,*,N2L *,*-*-1961,Chickenpox
+*,M,*,N2L *,*-*-1980,Diphtheria
+*,M,*,N2L *,*-*-1965,Chlamydia
+*,M,*,N2L *,*-*-1985,North American blastomycosis
+*,M,*,N2L *,*-*-1977,Malaria
+*,M,*,N2L *,*-*-1988,Cervical cancer
+*,M,*,N2L *,*-*-1981,Avian Influenza
+*,M,*,N2L *,*-*-1971,Chlamydia psittaci
+*,M,*,N2L *,*-*-1978,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1980,Chlamydia psittaci
+*,M,*,N2L *,*-*-1960,Hamburger disease
+*,M,*,N2L *,*-*-1969,Malaria
+*,M,*,N2L *,*-*-1963,Conjunctivitis
+*,M,*,N2L *,*-*-1968,Reiter Syndrome
+*,M,*,N2L *,*-*-1965,Chlamydia psittaci
+*,M,*,N2L *,*-*-1964,Chlamydia
+*,M,*,N2L *,*-*-1966,Avian Influenza
+*,M,*,N2L *,*-*-1973,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1981,Chickenpox
+*,M,*,N2L *,*-*-1969,Conjunctivitis
+*,M,*,N2L *,*-*-1985,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1969,Chlamydia
+*,M,*,N2L *,*-*-1969,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1980,Haemophilus Influenza
+*,M,*,N2L *,*-*-1968,Amebiasis
+*,M,*,N2L *,*-*-1977,Chlamydial infection
+*,M,*,N2L *,*-*-1980,Chlamydia
+*,M,*,N2L *,*-*-1988,Malaria
+*,M,*,N2L *,*-*-1965,Typhoid fever
+*,M,*,N2L *,*-*-1969,Chickenpox
+*,M,*,N2L *,*-*-1975,Infantile diarrhea
+*,M,*,N2L *,*-*-1980,Chicago disease
+*,M,*,N2L *,*-*-1981,Avian Influenza
+*,M,*,N2L *,*-*-1963,Chlamydia
+*,M,*,N2L *,*-*-1984,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1978,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1976,Chlamydia
+*,M,*,N2L *,*-*-1966,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1977,Blastomycosis
+*,M,*,N2L *,*-*-1984,Yellow fever
+*,M,*,N2L *,*-*-1964,Scarlet fever
+*,M,*,N2L *,*-*-1972,Typhoid fever
+*,M,*,N2L *,*-*-1988,Mumps
+*,M,*,N2L *,*-*-1984,Chlamydia
+*,M,*,N2L *,*-*-1984,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1973,Cervical cancer
+*,M,*,N2L *,*-*-1976,Haemophilus Influenza
+*,M,*,N2L *,*-*-1970,Chlamydia psittaci
+*,M,*,N2L *,*-*-1982,Chlamydia
+*,M,*,N2L *,*-*-1983,North American blastomycosis
+*,M,*,N2L *,*-*-1968,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1981,Malaria
+*,M,*,N2L *,*-*-1979,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1964,Yellow fever
+*,M,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1969,Hepatitis B
+*,M,*,N2L *,*-*-1979,Chickenpox
+*,M,*,N2L *,*-*-1981,Avian Influenza
+*,M,*,N2L *,*-*-1962,Hepatitis B
+*,M,*,N2L *,*-*-1984,Hepatitis B
+*,M,*,N2L *,*-*-1980,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1988,Amebiasis
+*,M,*,N2L *,*-*-1970,Chickenpox
+*,M,*,N2L *,*-*-1976,German measles
+*,M,*,N2L *,*-*-1964,Malaria
+*,M,*,N2L *,*-*-1977,Hepatitis B
+*,M,*,N2L *,*-*-1975,North American blastomycosis
+*,M,*,N2L *,*-*-1983,Hepatitis B
+*,M,*,N2L *,*-*-1971,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1977,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1964,Chlamydia psittaci
+*,M,*,N2L *,*-*-1975,Chickenpox
+*,M,*,N2L *,*-*-1963,Typhoid fever
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1978,Dandy fever
+*,F,*,N2L *,*-*-1978,Cervical cancer
+*,F,*,N2L *,*-*-1982,Chickenpox
+*,F,*,N2L *,*-*-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-10-1977,Chlamydia
+*,F,*,N2L *,*-*-1982,Avian Influenza
+*,F,*,N2L *,*-*-1976,Chlamydial infection
+*,F,*,N2L *,*-*-1979,Malaria
+*,F,*,N2L *,*-*-1967,Avian Influenza
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-6-1963,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1974,Typhoid fever
+*,F,*,N2L *,*-*-1975,Chlamydial infection
+*,F,*,N2L *,*-*-1966,North American blastomycosis
+*,F,*,N2L *,*-*-1978,Chlamydia
+*,F,*,N2L *,*-*-1988,Gingivitis
+*,F,*,N2L *,*-9-1974,Avian Influenza
+*,F,*,N2L *,*-*-1963,Infantile diarrhea
+*,F,*,N2L *,*-*-1974,Infantile diarrhea
+*,F,*,N2L *,*-*-1975,Chicago disease
+*,F,*,N2L *,*-*-1966,Avian Influenza
+*,F,*,N2L *,*-4-1978,Conjunctivitis
+*,F,*,N2L *,*-*-1988,Hamburger disease
+*,F,*,N2L *,*-9-1967,Endothrix
+*,F,*,N2L *,*-*-1980,Infantile diarrhea
+*,F,*,N2L *,*-4-1964,Chickenpox
+*,F,*,N2L *,*-*-1972,Chicago disease
+*,F,*,N2L *,*-*-1977,Hepatitis B
+*,F,*,N2L *,*-10-1977,Chickenpox
+*,F,*,N2L *,*-*-1961,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1980,Diphtheria
+*,F,*,N2L *,*-*-1965,Chlamydia
+*,F,*,N2L *,*-*-1985,German measles
+*,F,*,N2L *,*-*-1977,Typhoid fever
+*,F,*,N2L *,*-*-1988,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1981,Hamburger disease
+*,F,*,N2L *,*-*-1971,Chicago disease
+*,F,*,N2L *,*-*-1981,Conjunctivitis
+*,F,*,N2L *,*-*-1975,Chickenpox
+*,F,*,N2L *,*-9-1974,Infantile diarrhea
+*,F,*,N2L *,*-*-1961,Scarlet fever
+*,F,*,N2L *,*-*-1981,Chickenpox
+*,F,*,N2L *,*-*-1967,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1966,Dandy fever
+*,F,*,N2L *,*-*-1971,Endothrix
+*,F,*,N2L *,*-*-1987,Yellow fever
+*,F,*,N2L *,*-*-1975,Typhoid fever
+*,F,*,N2L *,*-*-1988,Chlamydia
+*,F,*,N2L *,*-*-1970,Avian Influenza
+*,F,*,N2L *,*-*-1966,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1966,Infantile diarrhea
+*,F,*,N2L *,*-*-1978,Yellow fever
+*,F,*,N2L *,*-*-1974,Avian Influenza
+*,F,*,N2L *,*-*-1972,Chlamydia
+*,F,*,N2L *,*-*-1968,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1984,Chickenpox
+*,F,*,N2L *,*-*-1964,Malaria
+*,F,*,N2L *,*-*-1973,Amebiasis
+*,F,*,N2L *,*-*-1985,Yellow fever
+*,F,*,N2L *,*-*-1977,Avian Influenza
+*,F,*,N2L *,*-*-1961,Yellow fever
+*,F,*,N2L *,*-*-1963,Cervical cancer
+*,F,*,N2L *,*-*-1987,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1985,Hepatitis B
+*,F,*,N2L *,*-*-1983,Dandy fever
+*,F,*,N2L *,*-*-1962,Typhoid fever
+*,F,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1961,Typhoid fever
+*,F,*,N2L *,*-*-1980,Reiter Syndrome
+*,F,*,N2L *,*-*-1965,Endothrix
+*,F,*,N2L *,*-*-1985,Blastomycosis
+*,F,*,N2L *,*-*-1977,Hepatitis B
+*,F,*,N2L *,*-*-1988,Hepatitis B
+*,F,*,N2L *,*-*-1981,Endothrix
+*,F,*,N2L *,*-*-1971,Infantile diarrhea
+*,F,*,N2L *,*-*-1978,Reiter Syndrome
+*,F,*,N2L *,*-*-1980,Cervical cancer
+*,F,*,N2L *,*-*-1960,Chickenpox
+*,F,*,N2L *,*-*-1969,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1963,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1968,Cervical cancer
+*,F,*,N2L *,*-*-1965,Chickenpox
+*,F,*,N2L *,*-2-1964,Hepatitis B
+*,F,*,N2L *,*-*-1966,Avian Influenza
+*,F,*,N2L *,*-*-1973,Reiter Syndrome
+*,F,*,N2L *,*-*-1981,Infantile diarrhea
+*,F,*,N2L *,*-*-1980,Hepatitis B
+*,F,*,N2L *,*-*-1964,Yellow fever
+*,F,*,N2L *,*-*-1972,Diphtheria
+*,F,*,N2L *,*-*-1977,Gingivitis
+*,F,*,N2L *,*-*-1977,Conjunctivitis
+*,F,*,N2L *,*-*-1961,Mumps
+*,F,*,N2L *,*-*-1980,Reiter Syndrome
+*,F,*,N2L *,*-*-1965,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1985,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1977,Blastomycosis
+*,F,*,N2L *,*-*-1988,Hepatitis B
+*,F,*,N2L *,*-*-1981,Chicago disease
+*,F,*,N2L *,*-*-1971,Hepatitis B
+*,F,*,N2L *,*-*-1981,Mumps
+*,F,*,N2L *,*-*-1975,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1974,Chlamydia psittaci
+*,F,*,N2L *,*-*-1961,Cervical cancer
+*,F,*,N2L *,*-*-1981,Dandy fever
+*,F,*,N2L *,*-*-1967,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1966,Reiter Syndrome
+*,F,*,N2L *,*-*-1971,Cervical cancer
+*,F,*,N2L *,*-*-1987,Chlamydia
+*,F,*,N2L *,*-*-1975,Chlamydia
+*,F,*,N2L *,*-*-1988,Tapeworm infections
+*,F,*,N2L *,*-*-1970,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1966,Conjunctivitis
+*,F,*,N2L *,*-*-1966,Chlamydial infection
+*,F,*,N2L *,*-*-1978,Yellow fever
+*,F,*,N2L *,*-*-1974,Typhoid fever
+*,F,*,N2L *,*-*-1972,Gingivitis
+*,F,*,N2L *,*-*-1968,Avian Influenza
+*,F,*,N2L *,*-*-1984,Conjunctivitis
+*,F,*,N2L *,*-5-1964,Amebiasis
+*,F,*,N2L *,*-*-1973,Malaria
+*,F,*,N2L *,*-*-1985,Hamburger disease
+*,F,*,N2L *,*-*-1977,Chickenpox
+*,F,*,N2L *,*-*-1961,Scarlet fever
+*,F,*,N2L *,*-*-1963,Yellow fever
+*,F,*,N2L *,*-*-1987,Typhoid fever
+*,F,*,N2L *,*-*-1985,Malaria
+*,F,*,N2L *,*-*-1983,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1962,Hepatitis B
+*,F,*,N2L *,*-10-1977,Tapeworm infections
+*,F,*,N2L *,*-*-1961,Hepatitis B
+*,F,*,N2L *,*-*-1980,Hamburger disease
+*,F,*,N2L *,*-*-1965,North American blastomycosis
+*,F,*,N2L *,*-*-1985,Conjunctivitis
+*,F,*,N2L *,*-10-1977,Chlamydia
+*,F,*,N2L *,*-11-1988,Chickenpox
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,F,*,N2L *,*-*-1971,Chlamydia
+*,F,*,N2L *,*-*-1978,Conjunctivitis
+*,F,*,N2L *,*-*-1980,Chlamydia
+*,F,*,N2L *,*-*-1960,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1963,Chlamydia
+*,F,*,N2L *,*-*-1963,Chlamydia psittaci
+*,F,*,N2L *,*-*-1968,Infantile diarrhea
+*,F,*,N2L *,*-*-1965,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1964,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1966,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1973,Chlamydia
+*,F,*,N2L *,*-*-1981,German measles
+*,F,*,N2L *,*-*-1975,Chickenpox
+*,F,*,N2L *,*-*-1960,Gingivitis
+*,F,*,N2L *,*-*-1965,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1978,Tapeworm infections
+*,F,*,N2L *,*-*-1964,Chicago disease
+*,F,*,N2L *,*-*-1970,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1962,Chickenpox
+*,F,*,N2L *,*-4-1964,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1979,Conjunctivitis
+*,F,*,N2L *,*-*-1986,Chlamydia
+*,F,*,N2L *,*-*-1985,Infantile diarrhea
+*,F,*,N2L *,*-*-1972,Diphtheria
+*,F,*,N2L *,*-*-1974,Chicago disease
+*,F,*,N2L *,*-*-1961,Chlamydia
+*,F,*,N2L *,*-*-1972,Infantile diarrhea
+*,F,*,N2L *,*-*-1986,Chickenpox
+*,F,*,N2L *,*-*-1968,Avian Influenza
+*,F,*,N2L *,*-*-1966,Mumps
+*,F,*,N2L *,*-*-1963,Conjunctivitis
+*,F,*,N2L *,*-*-1982,Chickenpox
+*,F,*,N2L *,*-*-1984,Malaria
+*,F,*,N2L *,*-*-1985,Conjunctivitis
+*,F,*,N2L *,*-*-1974,Tapeworm infections
+*,F,*,N2L *,*-*-1969,Chickenpox
+*,F,*,N2L *,*-*-1979,Reiter Syndrome
+*,F,*,N2L *,*-4-1964,Endothrix
+*,F,*,N2L *,*-*-1975,Haemophilus Influenza
+*,F,*,N2L *,*-*-1988,Avian Influenza
+*,F,*,N2L *,*-*-1961,Scarlet fever
+*,F,*,N2L *,*-*-1971,Chlamydia
+*,F,*,N2L *,*-*-1972,Conjunctivitis
+*,F,*,N2L *,*-*-1981,Haemophilus Influenza
+*,F,*,N2L *,*-*-1974,Chlamydial infection
+*,F,*,N2L *,*-*-1961,Typhoid fever
+*,F,*,N2L *,*-*-1977,Chickenpox
+*,F,*,N2L *,*-*-1982,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,Reiter Syndrome
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-*-1987,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1980,Malaria
+*,F,*,N2L *,*-*-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1979,Chickenpox
+*,F,*,N2L *,*-*-1985,Haemophilus Influenza
+*,F,*,N2L *,*-*-1964,Chickenpox
+*,F,*,N2L *,*-*-1977,Gingivitis
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1975,Typhoid fever
+*,F,*,N2L *,*-*-1983,Hepatitis B
+*,F,*,N2L *,*-*-1962,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1971,Chickenpox
+*,F,*,N2L *,*-*-1977,Malaria
+*,F,*,N2L *,*-2-1964,Mumps
+*,F,*,N2L *,*-*-1969,Chlamydia
+*,F,*,N2L *,*-*-1967,Chickenpox
+*,F,*,N2L *,*-*-1964,Chicago disease
+*,F,*,N2L *,*-*-1969,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1964,Conjunctivitis
+*,F,*,N2L *,*-*-1963,Chickenpox
+*,F,*,N2L *,*-*-1988,Endothrix
+*,F,*,N2L *,*-*-1972,Blastomycosis
+*,F,*,N2L *,*-*-1967,Haemophilus Influenza
+*,F,*,N2L *,*-*-1975,Chlamydia
+*,F,*,N2L *,*-*-1979,Tapeworm infections
+*,F,*,N2L *,*-*-1984,Chlamydial infection
+*,F,*,N2L *,*-*-1978,Blastomycosis
+*,F,*,N2L *,*-*-1978,Hepatitis B
+*,F,*,N2L *,*-*-1982,Conjunctivitis
+*,F,*,N2L *,*-*-1967,Conjunctivitis
+*,F,*,N2L *,*-*-1977,Scarlet fever
+*,F,*,N2L *,*-*-1982,Blastomycosis
+*,F,*,N2L *,*-*-1976,Tapeworm infections
+*,F,*,N2L *,*-*-1979,Diphtheria
+*,F,*,N2L *,*-*-1967,Dandy fever
+*,F,*,N2L *,*-*-1974,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1963,Cervical cancer
+*,F,*,N2L *,*-*-1974,Cervical cancer
+*,F,*,N2L *,*-*-1975,Chlamydia
+*,F,*,N2L *,*-*-1966,Hepatitis B
+*,F,*,N2L *,*-*-1978,Gingivitis
+*,F,*,N2L *,*-5-1988,Yellow fever
+*,F,*,N2L *,*-9-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1978,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1973,Conjunctivitis
+*,F,*,N2L *,*-*-1970,Conjunctivitis
+*,F,*,N2L *,*-*-1984,Hepatitis B
+*,F,*,N2L *,*-*-1983,Conjunctivitis
+*,F,*,N2L *,*-*-1966,Amebiasis
+*,F,*,N2L *,*-*-1982,Yellow fever
+*,F,*,N2L *,*-*-1966,Diphtheria
+*,F,*,N2L *,*-*-1962,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1973,Chlamydia
+*,F,*,N2L *,*-*-1968,Yellow fever
+*,F,*,N2L *,*-*-1981,Dandy fever
+*,F,*,N2L *,*-*-1975,Chlamydia psittaci
+*,F,*,N2L *,*-9-1974,Malaria
+*,F,*,N2L *,*-*-1961,Chlamydial infection
+*,F,*,N2L *,*-*-1978,Chlamydia
+*,F,*,N2L *,*-*-1980,Malaria
+*,F,*,N2L *,*-*-1960,Typhoid fever
+*,F,*,N2L *,*-*-1969,Chicago disease
+*,F,*,N2L *,*-*-1963,Reiter Syndrome
+*,F,*,N2L *,*-*-1968,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1965,Typhoid fever
+*,F,*,N2L *,*-4-1964,North American blastomycosis
+*,F,*,N2L *,*-*-1966,Chlamydia
+*,F,*,N2L *,*-*-1973,Haemophilus Influenza
+*,F,*,N2L *,*-*-1981,Yellow fever
+*,F,*,N2L *,*-*-1975,Diphtheria
+*,F,*,N2L *,*-*-1960,Avian Influenza
+*,F,*,N2L *,*-*-1965,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,Chickenpox
+*,F,*,N2L *,*-*-1977,Chickenpox
+*,F,*,N2L *,*-*-1975,Hamburger disease
+*,F,*,N2L *,*-*-1963,Avian Influenza
+*,F,*,N2L *,*-*-1984,Conjunctivitis
+*,F,*,N2L *,*-4-1978,Blastomycosis
+*,F,*,N2L *,*-*-1978,Avian Influenza
+*,F,*,N2L *,*-*-1982,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1967,Avian Influenza
+*,F,*,N2L *,*-10-1977,Chlamydia
+*,F,*,N2L *,*-*-1982,Yellow fever
+*,F,*,N2L *,*-*-1976,Infantile diarrhea
+*,F,*,N2L *,*-*-1979,Chickenpox
+*,F,*,N2L *,*-*-1967,Hamburger disease
+*,F,*,N2L *,*-*-1974,Chlamydia
+*,F,*,N2L *,*-6-1963,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1974,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1975,Typhoid fever
+*,F,*,N2L *,*-*-1966,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1978,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1988,Infantile diarrhea
+*,F,*,N2L *,*-*-1967,Chickenpox
+*,F,*,N2L *,*-*-1978,Avian Influenza
+*,F,*,N2L *,*-*-1973,Chickenpox
+*,F,*,N2L *,*-*-1970,Reiter Syndrome
+*,F,*,N2L *,*-*-1984,Infantile diarrhea
+*,F,*,N2L *,*-*-1983,Chickenpox
+*,F,*,N2L *,*-*-1966,Hepatitis B
+*,F,*,N2L *,*-*-1982,Chlamydia
+*,F,*,N2L *,*-*-1966,Infantile diarrhea
+*,F,*,N2L *,*-*-1973,Endothrix
+*,F,*,N2L *,*-*-1968,Chlamydia
+*,F,*,N2L *,*-*-1983,Typhoid fever
+*,F,*,N2L *,*-*-1981,Chicago disease
+*,F,*,N2L *,*-*-1967,Dandy fever
+*,F,*,N2L *,*-*-1966,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1971,Tapeworm infections
+*,F,*,N2L *,*-*-1987,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1975,Amebiasis
+*,F,*,N2L *,*-11-1988,Typhoid fever
+*,F,*,N2L *,*-*-1970,Conjunctivitis
+*,F,*,N2L *,*-*-1966,Yellow fever
+*,F,*,N2L *,*-*-1966,Chickenpox
+*,F,*,N2L *,*-*-1978,Chlamydia
+*,F,*,N2L *,*-*-1974,Chlamydia psittaci
+*,F,*,N2L *,*-*-1972,Scarlet fever
+*,F,*,N2L *,*-*-1968,Avian Influenza
+*,F,*,N2L *,*-*-1984,Chickenpox
+*,F,*,N2L *,*-*-1964,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1973,Chlamydia
+*,F,*,N2L *,*-*-1985,Diphtheria
+*,F,*,N2L *,*-*-1977,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1961,German measles
+*,F,*,N2L *,*-*-1963,Avian Influenza
+*,F,*,N2L *,*-*-1987,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1985,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1962,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1961,Tapeworm infections
+*,F,*,N2L *,*-*-1980,Amebiasis
+*,F,*,N2L *,*-*-1965,Scarlet fever
+*,F,*,N2L *,*-*-1985,Tapeworm infections
+*,F,*,N2L *,*-*-1977,Typhoid fever
+*,F,*,N2L *,*-*-1988,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1981,Avian Influenza
+*,F,*,N2L *,*-*-1971,Malaria
+*,F,*,N2L *,*-*-1981,Hamburger disease
+*,F,*,N2L *,*-*-1975,Chickenpox
+*,F,*,N2L *,*-*-1974,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1961,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1980,German measles
+*,F,*,N2L *,*-*-1960,Blastomycosis
+*,F,*,N2L *,*-*-1969,Yellow fever
+*,F,*,N2L *,*-*-1963,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1968,Conjunctivitis
+*,F,*,N2L *,*-*-1965,Typhoid fever
+*,F,*,N2L *,*-*-1964,Endothrix
+*,F,*,N2L *,*-*-1966,Tapeworm infections
+*,F,*,N2L *,*-*-1973,Avian Influenza
+*,F,*,N2L *,*-*-1981,Conjunctivitis
+*,F,*,N2L *,*-*-1975,Dandy fever
+*,F,*,N2L *,*-*-1960,Typhoid fever
+*,F,*,N2L *,*-*-1965,Amebiasis
+*,F,*,N2L *,*-*-1969,Diphtheria
+*,F,*,N2L *,*-*-1978,German measles
+*,F,*,N2L *,*-4-1964,Diphtheria
+*,F,*,N2L *,*-*-1970,German measles
+*,F,*,N2L *,*-*-1962,Chlamydia
+*,F,*,N2L *,*-4-1964,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-5-1988,Chlamydia psittaci
+*,F,*,N2L *,*-*-1972,Chicago disease
+*,F,*,N2L *,*-*-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1975,German measles
+*,F,*,N2L *,*-*-1979,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1970,Infantile diarrhea
+*,F,*,N2L *,*-*-1980,Chickenpox
+*,F,*,N2L *,*-*-1976,Chickenpox
+*,F,*,N2L *,*-*-1968,Tapeworm infections
+*,F,*,N2L *,*-*-1964,Chlamydial infection
+*,F,*,N2L *,*-*-1988,German measles
+*,F,*,N2L *,*-*-1986,Blastomycosis
+*,F,*,N2L *,*-*-1982,Amebiasis
+*,F,*,N2L *,*-*-1968,Chlamydia psittaci
+*,F,*,N2L *,*-*-1984,Chickenpox
+*,F,*,N2L *,*-*-1962,Cervical cancer
+*,F,*,N2L *,*-9-1967,Hepatitis B
+*,F,*,N2L *,*-*-1961,Yellow fever
+*,F,*,N2L *,*-*-1982,Typhoid fever
+*,F,*,N2L *,*-*-1970,Hepatitis B
+*,F,*,N2L *,*-*-1975,North American blastomycosis
+*,F,*,N2L *,*-*-1960,Chickenpox
+*,F,*,N2L *,*-*-1965,Gingivitis
+*,F,*,N2L *,*-*-1972,Mumps
+*,F,*,N2L *,*-*-1963,Hepatitis B
+*,F,*,N2L *,*-*-1981,Yellow fever
+*,F,*,N2L *,*-*-1979,Yellow fever
+*,F,*,N2L *,*-*-1964,Avian Influenza
+*,F,*,N2L *,*-4-1978,Hamburger disease
+*,F,*,N2L *,*-*-1969,Scarlet fever
+*,F,*,N2L *,*-*-1979,Chlamydia
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,F,*,N2L *,*-*-1962,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-5-1988,Malaria
+*,F,*,N2L *,*-*-1970,Typhoid fever
+*,F,*,N2L *,*-*-1976,Malaria
+*,F,*,N2L *,*-*-1969,Reiter Syndrome
+*,F,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1985,Conjunctivitis
+*,F,*,N2L *,*-*-1969,Chlamydia
+*,F,*,N2L *,*-*-1968,Dandy fever
+*,F,*,N2L *,*-*-1977,Yellow fever
+*,F,*,N2L *,*-*-1980,Gingivitis
+*,F,*,N2L *,*-*-1988,Dandy fever
+*,F,*,N2L *,*-*-1965,Yellow fever
+*,F,*,N2L *,*-*-1969,Mumps
+*,F,*,N2L *,*-*-1975,Yellow fever
+*,F,*,N2L *,*-*-1987,North American blastomycosis
+*,F,*,N2L *,*-*-1981,Mumps
+*,F,*,N2L *,*-6-1963,Yellow fever
+*,F,*,N2L *,*-*-1984,Chlamydia
+*,F,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1976,Avian Influenza
+*,F,*,N2L *,*-*-1966,Conjunctivitis
+*,F,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1984,Hepatitis B
+*,F,*,N2L *,*-*-1964,Avian Influenza
+*,F,*,N2L *,*-*-1972,Malaria
+*,F,*,N2L *,*-*-1988,Chicago disease
+*,F,*,N2L *,*-*-1984,Tapeworm infections
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1973,Hepatitis B
+*,F,*,N2L *,*-*-1976,Cervical cancer
+*,F,*,N2L *,*-*-1970,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1982,Chlamydia psittaci
+*,F,*,N2L *,*-*-1983,Conjunctivitis
+*,F,*,N2L *,*-*-1972,Reiter Syndrome
+*,F,*,N2L *,*-9-1974,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1961,Endothrix
+*,F,*,N2L *,*-*-1972,Yellow fever
+*,F,*,N2L *,*-*-1986,Scarlet fever
+*,F,*,N2L *,*-*-1962,Malaria
+*,F,*,N2L *,*-*-1968,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1966,Malaria
+*,F,*,N2L *,*-*-1963,Chickenpox
+*,F,*,N2L *,*-*-1982,Diphtheria
+*,F,*,N2L *,*-*-1984,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1985,Dandy fever
+*,F,*,N2L *,*-*-1974,Hepatitis B
+*,F,*,N2L *,*-*-1969,Cervical cancer
+*,F,*,N2L *,*-*-1979,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-4-1964,North American blastomycosis
+*,F,*,N2L *,*-*-1975,Chickenpox
+*,F,*,N2L *,*-*-1988,Conjunctivitis
+*,F,*,N2L *,*-*-1961,Conjunctivitis
+*,F,*,N2L *,*-*-1979,Chlamydia
+*,F,*,N2L *,*-*-1984,Typhoid fever
+*,F,*,N2L *,*-*-1971,Chickenpox
+*,F,*,N2L *,*-*-1972,Scarlet fever
+*,F,*,N2L *,*-*-1981,Conjunctivitis
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-*-1961,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1975,Reiter Syndrome
+*,F,*,N2L *,*-*-1960,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1965,Conjunctivitis
+*,F,*,N2L *,*-*-1972,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1963,Hamburger disease
+*,F,*,N2L *,*-9-1974,Hepatitis B
+*,F,*,N2L *,*-*-1973,Mumps
+*,F,*,N2L *,*-*-1960,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1988,Dandy fever
+*,F,*,N2L *,*-*-1984,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1980,Malaria
+*,F,*,N2L *,*-*-1978,Chlamydial infection
+*,F,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1982,Chickenpox
+*,F,*,N2L *,*-*-1969,Hepatitis B
+*,F,*,N2L *,*-*-1974,Chlamydia
+*,F,*,N2L *,*-*-1987,Hepatitis B
+*,F,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-9-1967,Chlamydia
+*,F,*,N2L *,*-*-1979,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1985,Scarlet fever
+*,F,*,N2L *,*-*-1964,Chickenpox
+*,F,*,N2L *,*-*-1977,Chickenpox
+*,F,*,N2L *,*-*-1975,Gingivitis
+*,F,*,N2L *,*-*-1983,Dandy fever
+*,F,*,N2L *,*-*-1971,Blastomycosis
+*,F,*,N2L *,*-*-1977,Blastomycosis
+*,F,*,N2L *,*-*-1964,Conjunctivitis
+*,F,*,N2L *,*-*-1967,Chlamydia
+*,F,*,N2L *,*-*-1964,Hamburger disease
+*,F,*,N2L *,*-*-1969,Endothrix
+*,F,*,N2L *,*-*-1964,Chickenpox
+*,F,*,N2L *,*-6-1963,Typhoid fever
+*,F,*,N2L *,*-*-1980,Dandy fever
+*,F,*,N2L *,*-*-1964,Hepatitis B
+*,F,*,N2L *,*-*-1972,Chlamydia
+*,F,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1978,Hepatitis B
+*,F,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1966,Hepatitis B
+*,F,*,N2L *,*-*-1963,Avian Influenza
+*,F,*,N2L *,*-*-1982,Avian Influenza
+*,F,*,N2L *,*-*-1984,Chlamydia psittaci
+*,F,*,N2L *,*-*-1985,Hepatitis B
+*,F,*,N2L *,*-9-1974,Endothrix
+*,F,*,N2L *,*-*-1969,Conjunctivitis
+*,F,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-5-1964,Diphtheria
+*,F,*,N2L *,*-*-1975,Scarlet fever
+*,F,*,N2L *,*-*-1988,Chickenpox
+*,F,*,N2L *,*-*-1961,Scarlet fever
+*,F,*,N2L *,*-*-1971,Reiter Syndrome
+*,F,*,N2L *,*-*-1972,Chlamydia
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,F,*,N2L *,*-*-1974,Hepatitis B
+*,F,*,N2L *,*-*-1961,Chlamydia
+*,F,*,N2L *,*-*-1982,Blastomycosis
+*,F,*,N2L *,*-9-1967,German measles
+*,F,*,N2L *,*-*-1977,Infantile diarrhea
+*,F,*,N2L *,*-*-1982,Chlamydia
+*,F,*,N2L *,*-*-1976,Typhoid fever
+*,F,*,N2L *,*-*-1979,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1967,Chlamydia
+*,F,*,N2L *,*-*-1974,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1963,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1974,Chlamydia
+*,F,*,N2L *,*-*-1975,Chlamydia
+*,F,*,N2L *,*-*-1966,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-4-1978,Avian Influenza
+*,F,*,N2L *,*-5-1988,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1967,Avian Influenza
+*,F,*,N2L *,*-*-1978,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1973,Typhoid fever
+*,F,*,N2L *,*-*-1970,Amebiasis
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1983,Hepatitis B
+*,F,*,N2L *,*-*-1966,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1982,Conjunctivitis
+*,F,*,N2L *,*-*-1966,Haemophilus Influenza
+*,F,*,N2L *,*-*-1973,Scarlet fever
+*,F,*,N2L *,*-*-1968,Reiter Syndrome
+*,F,*,N2L *,*-*-1983,Conjunctivitis
+*,F,*,N2L *,*-*-1981,Yellow fever
+*,F,*,N2L *,*-*-1967,Dandy fever
+*,F,*,N2L *,*-*-1966,Mumps
+*,F,*,N2L *,*-*-1971,Malaria
+*,F,*,N2L *,*-*-1987,Infantile diarrhea
+*,F,*,N2L *,*-*-1975,Chickenpox
+*,F,*,N2L *,*-*-1988,Malaria
+*,F,*,N2L *,*-*-1970,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1966,Mumps
+*,F,*,N2L *,*-*-1966,Chlamydia psittaci
+*,F,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1974,Typhoid fever
+*,F,*,N2L *,*-*-1972,Blastomycosis
+*,F,*,N2L *,*-*-1968,Dandy fever
+*,F,*,N2L *,*-*-1984,Yellow fever
+*,F,*,N2L *,*-*-1964,Chickenpox
+*,F,*,N2L *,*-*-1973,Endothrix
+*,F,*,N2L *,*-*-1985,North American blastomycosis
+*,F,*,N2L *,*-*-1977,Conjunctivitis
+*,F,*,N2L *,*-*-1961,Haemophilus Influenza
+*,F,*,N2L *,*-*-1963,Conjunctivitis
+*,F,*,N2L *,*-*-1987,Hepatitis B
+*,F,*,N2L *,*-*-1985,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1962,Chlamydial infection
+*,F,*,N2L *,*-*-1977,Dandy fever
+*,F,*,N2L *,*-*-1961,Conjunctivitis
+*,F,*,N2L *,*-*-1980,Hamburger disease
+*,F,*,N2L *,*-*-1965,Amebiasis
+*,F,*,N2L *,*-*-1985,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1977,Typhoid fever
+*,F,*,N2L *,*-*-1988,Yellow fever
+*,F,*,N2L *,*-*-1981,Cervical cancer
+*,F,*,N2L *,*-*-1971,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1981,Amebiasis
+*,F,*,N2L *,*-*-1975,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-*-1961,Blastomycosis
+*,F,*,N2L *,*-*-1978,Diphtheria
+*,F,*,N2L *,*-*-1980,Chlamydial infection
+*,F,*,N2L *,*-*-1960,Avian Influenza
+*,F,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1963,Chickenpox
+*,F,*,N2L *,*-*-1968,Dandy fever
+*,F,*,N2L *,*-*-1965,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1964,Avian Influenza
+*,F,*,N2L *,*-*-1966,Conjunctivitis
+*,F,*,N2L *,*-*-1973,Chlamydia
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,F,*,N2L *,*-*-1975,Typhoid fever
+*,F,*,N2L *,*-*-1960,Mumps
+*,F,*,N2L *,*-*-1965,Chlamydia
+*,F,*,N2L *,*-*-1969,North American blastomycosis
+*,F,*,N2L *,*-*-1978,Chlamydia psittaci
+*,F,*,N2L *,*-*-1964,Typhoid fever
+*,F,*,N2L *,*-*-1970,Mumps
+*,F,*,N2L *,*-*-1962,Hepatitis B
+*,F,*,N2L *,*-4-1964,Yellow fever
+*,F,*,N2L *,*-5-1988,Reiter Syndrome
+*,F,*,N2L *,*-*-1972,Gingivitis
+*,F,*,N2L *,*-*-1967,Haemophilus Influenza
+*,F,*,N2L *,*-*-1975,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1979,Haemophilus Influenza
+*,F,*,N2L *,*-*-1970,Hepatitis B
+*,F,*,N2L *,*-*-1980,Chicago disease
+*,F,*,N2L *,*-*-1976,Chickenpox
+*,F,*,N2L *,*-*-1968,Infantile diarrhea
+*,F,*,N2L *,*-*-1964,Avian Influenza
+*,F,*,N2L *,*-5-1988,Yellow fever
+*,F,*,N2L *,*-*-1986,Yellow fever
+*,F,*,N2L *,*-*-1982,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1968,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1984,Hepatitis B
+*,F,*,N2L *,*-*-1962,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1967,Avian Influenza
+*,F,*,N2L *,*-*-1961,Chlamydia
+*,F,*,N2L *,*-*-1982,Typhoid fever
+*,F,*,N2L *,*-*-1970,Chlamydial infection
+*,F,*,N2L *,*-*-1975,Chickenpox
+*,F,*,N2L *,*-*-1960,Chickenpox
+*,F,*,N2L *,*-*-1965,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1972,Malaria
+*,F,*,N2L *,*-*-1963,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1981,North American blastomycosis
+*,F,*,N2L *,*-*-1979,Reiter Syndrome
+*,F,*,N2L *,*-5-1964,Hepatitis B
+*,F,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,Diphtheria
+*,F,*,N2L *,*-*-1979,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1981,Avian Influenza
+*,F,*,N2L *,*-*-1962,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-5-1988,Chickenpox
+*,F,*,N2L *,*-*-1970,German measles
+*,F,*,N2L *,*-*-1976,Chickenpox
+*,F,*,N2L *,*-*-1969,Amebiasis
+*,F,*,N2L *,*-*-1969,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1985,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1969,Chickenpox
+*,F,*,N2L *,*-*-1968,Avian Influenza
+*,F,*,N2L *,*-10-1977,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1980,Conjunctivitis
+*,F,*,N2L *,*-11-1988,Haemophilus Influenza
+*,F,*,N2L *,*-*-1965,Hepatitis B
+*,F,*,N2L *,*-*-1969,Chlamydia psittaci
+*,F,*,N2L *,*-*-1975,Conjunctivitis
+*,F,*,N2L *,*-*-1987,Avian Influenza
+*,F,*,N2L *,*-*-1981,Hamburger disease
+*,F,*,N2L *,*-6-1963,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1984,Chickenpox
+*,F,*,N2L *,*-*-1978,Chickenpox
+*,F,*,N2L *,*-*-1976,Malaria
+*,F,*,N2L *,*-*-1966,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1977,Mumps
+*,F,*,N2L *,*-*-1984,Malaria
+*,F,*,N2L *,*-*-1964,Chickenpox
+*,F,*,N2L *,*-*-1972,Chickenpox
+*,F,*,N2L *,*-*-1988,Blastomycosis
+*,F,*,N2L *,*-*-1984,Diphtheria
+*,F,*,N2L *,*-*-1984,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1973,Malaria
+*,F,*,N2L *,*-*-1976,Conjunctivitis
+*,F,*,N2L *,*-*-1970,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1982,Chlamydial infection
+*,F,*,N2L *,*-*-1983,Avian Influenza
+*,F,*,N2L *,*-*-1972,Conjunctivitis
+*,F,*,N2L *,*-*-1974,Conjunctivitis
+*,F,*,N2L *,*-*-1961,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1972,Chlamydia
+*,F,*,N2L *,*-*-1986,Avian Influenza
+*,F,*,N2L *,*-*-1968,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1977,Tapeworm infections
+*,F,*,N2L *,*-*-1982,Typhoid fever
+*,F,*,N2L *,*-*-1969,Diphtheria
+*,F,*,N2L *,*-9-1974,Hepatitis B
+*,F,*,N2L *,*-*-1987,Yellow fever
+*,F,*,N2L *,*-*-1980,Chlamydia
+*,F,*,N2L *,*-9-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1985,Typhoid fever
+*,F,*,N2L *,*-5-1964,Infantile diarrhea
+*,F,*,N2L *,*-*-1977,Chlamydia
+*,F,*,N2L *,*-*-1975,Conjunctivitis
+*,F,*,N2L *,*-*-1983,Haemophilus Influenza
+*,F,*,N2L *,*-*-1971,Hepatitis B
+*,F,*,N2L *,*-*-1977,Blastomycosis
+*,F,*,N2L *,*-*-1964,Avian Influenza
+*,F,*,N2L *,*-*-1967,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1964,Chickenpox
+*,F,*,N2L *,*-*-1969,Chickenpox
+*,F,*,N2L *,*-*-1964,Malaria
+*,F,*,N2L *,*-*-1963,Scarlet fever
+*,F,*,N2L *,*-*-1980,North American blastomycosis
+*,F,*,N2L *,*-2-1964,Chickenpox
+*,F,*,N2L *,*-*-1972,Chickenpox
+*,F,*,N2L *,*-*-1977,Cervical cancer
+*,F,*,N2L *,*-*-1984,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1978,Malaria
+*,F,*,N2L *,*-*-1978,Malaria
+*,F,*,N2L *,*-*-1982,Chickenpox
+*,F,*,N2L *,*-*-1967,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1977,Diphtheria
+*,F,*,N2L *,*-*-1982,Mumps
+*,F,*,N2L *,*-*-1976,Yellow fever
+*,F,*,N2L *,*-*-1979,Chickenpox
+*,F,*,N2L *,*-*-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-9-1974,Yellow fever
+*,F,*,N2L *,*-6-1963,Chlamydia psittaci
+*,F,*,N2L *,*-*-1975,Chlamydia
+*,F,*,N2L *,*-*-1963,German measles
+*,F,*,N2L *,*-9-1974,North American blastomycosis
+*,F,*,N2L *,*-*-1975,Hepatitis B
+*,F,*,N2L *,*-*-1966,Hepatitis B
+*,F,*,N2L *,*-*-1978,Typhoid fever
+*,F,*,N2L *,*-5-1988,Blastomycosis
+*,F,*,N2L *,*-*-1967,Conjunctivitis
+*,F,*,N2L *,*-*-1978,Dandy fever
+*,F,*,N2L *,*-*-1973,Avian Influenza
+*,F,*,N2L *,*-*-1970,Avian Influenza
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1983,Chlamydia
+*,F,*,N2L *,*-*-1966,Infantile diarrhea
+*,F,*,N2L *,*-*-1982,Infantile diarrhea
+*,F,*,N2L *,*-*-1966,Chlamydia
+*,F,*,N2L *,*-*-1973,Hamburger disease
+*,F,*,N2L *,*-*-1968,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1983,Conjunctivitis
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,F,*,N2L *,*-9-1967,Malaria
+*,F,*,N2L *,*-*-1966,Scarlet fever
+*,F,*,N2L *,*-*-1971,Chickenpox
+*,F,*,N2L *,*-*-1987,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1975,Yellow fever
+*,F,*,N2L *,*-11-1988,Haemophilus Influenza
+*,F,*,N2L *,*-*-1970,Hepatitis B
+*,F,*,N2L *,*-*-1966,Hepatitis B
+*,F,*,N2L *,*-*-1966,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1978,Avian Influenza
+*,F,*,N2L *,*-*-1974,Avian Influenza
+*,F,*,N2L *,*-*-1972,Hepatitis B
+*,F,*,N2L *,*-*-1968,Tapeworm infections
+*,F,*,N2L *,*-*-1984,Chlamydia
+*,F,*,N2L *,*-5-1964,Malaria
+*,F,*,N2L *,*-*-1973,Avian Influenza
+*,F,*,N2L *,*-*-1985,Malaria
+*,F,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1961,Yellow fever
+*,F,*,N2L *,*-*-1962,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1963,Avian Influenza
+*,F,*,N2L *,*-*-1980,North American blastomycosis
+*,F,*,N2L *,*-2-1964,Chlamydia psittaci
+*,F,*,N2L *,*-*-1972,German measles
+*,F,*,N2L *,*-*-1977,Mumps
+*,F,*,N2L *,*-*-1977,Endothrix
+*,F,*,N2L *,*-*-1961,Hamburger disease
+*,F,*,N2L *,*-*-1980,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1965,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1985,Hamburger disease
+*,F,*,N2L *,*-10-1977,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1988,Yellow fever
+*,F,*,N2L *,*-*-1981,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1971,Chlamydia
+*,F,*,N2L *,*-*-1981,Conjunctivitis
+*,F,*,N2L *,*-*-1975,Tapeworm infections
+*,F,*,N2L *,*-*-1974,Hamburger disease
+*,F,*,N2L *,*-*-1961,Cervical cancer
+*,F,*,N2L *,*-*-1981,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1967,Avian Influenza
+*,F,*,N2L *,*-*-1966,Chickenpox
+*,F,*,N2L *,*-*-1971,Typhoid fever
+*,F,*,N2L *,*-*-1987,Hepatitis B
+*,F,*,N2L *,*-*-1975,Hepatitis B
+*,F,*,N2L *,*-*-1988,Blastomycosis
+*,F,*,N2L *,*-*-1970,Typhoid fever
+*,F,*,N2L *,*-*-1966,Chlamydia
+*,F,*,N2L *,*-*-1966,Gingivitis
+*,F,*,N2L *,*-*-1978,Reiter Syndrome
+*,F,*,N2L *,*-*-1974,Dandy fever
+*,F,*,N2L *,*-*-1972,Amebiasis
+*,F,*,N2L *,*-*-1968,Malaria
+*,F,*,N2L *,*-*-1984,Dandy fever
+*,F,*,N2L *,*-*-1964,Gingivitis
+*,F,*,N2L *,*-*-1973,Hepatitis B
+*,F,*,N2L *,*-*-1985,Cervical cancer
+*,F,*,N2L *,*-*-1977,Hepatitis B
+*,F,*,N2L *,*-*-1961,Endothrix
+*,F,*,N2L *,*-6-1963,Tapeworm infections
+*,F,*,N2L *,*-*-1987,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1985,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1983,German measles
+*,F,*,N2L *,*-*-1962,Conjunctivitis
+*,F,*,N2L *,*-*-1977,Conjunctivitis
+*,F,*,N2L *,*-*-1961,Haemophilus Influenza
+*,F,*,N2L *,*-*-1980,Avian Influenza
+*,F,*,N2L *,*-*-1965,Chicago disease
+*,F,*,N2L *,*-*-1985,Amebiasis
+*,F,*,N2L *,*-10-1977,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1988,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1981,Mumps
+*,F,*,N2L *,*-*-1971,Infantile diarrhea
+*,F,*,N2L *,*-*-1978,Typhoid fever
+*,F,*,N2L *,*-*-1980,Chlamydia
+*,F,*,N2L *,*-*-1960,Conjunctivitis
+*,F,*,N2L *,*-*-1969,Gingivitis
+*,F,*,N2L *,*-6-1963,Haemophilus Influenza
+*,F,*,N2L *,*-*-1968,Chickenpox
+*,F,*,N2L *,*-*-1965,Avian Influenza
+*,F,*,N2L *,*-4-1964,Chlamydial infection
+*,F,*,N2L *,*-*-1966,Reiter Syndrome
+*,F,*,N2L *,*-*-1973,Chickenpox
+*,F,*,N2L *,*-*-1981,Chickenpox
+*,F,*,N2L *,*-*-1975,Hepatitis B
+*,F,*,N2L *,*-*-1960,Chicago disease
+*,F,*,N2L *,*-*-1965,Yellow fever
+*,F,*,N2L *,*-*-1969,Mumps
+*,F,*,N2L *,*-*-1978,Chlamydia
+*,F,*,N2L *,*-4-1964,Chlamydia
+*,F,*,N2L *,*-*-1970,Amebiasis
+*,F,*,N2L *,*-*-1962,North American blastomycosis
+*,F,*,N2L *,*-*-1964,North American blastomycosis
+*,F,*,N2L *,*-*-1963,Conjunctivitis
+*,F,*,N2L *,*-*-1986,Tapeworm infections
+*,F,*,N2L *,*-2-1964,Chicago disease
+*,F,*,N2L *,*-*-1985,Dandy fever
+*,F,*,N2L *,*-*-1972,Chlamydial infection
+*,F,*,N2L *,*-*-1974,Hamburger disease
+*,F,*,N2L *,*-*-1961,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1972,Amebiasis
+*,F,*,N2L *,*-*-1986,Chickenpox
+*,F,*,N2L *,*-*-1968,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1966,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1963,Malaria
+*,F,*,N2L *,*-*-1982,Conjunctivitis
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1985,Chlamydia psittaci
+*,F,*,N2L *,*-*-1974,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1969,Hamburger disease
+*,F,*,N2L *,*-*-1979,Chicago disease
+*,F,*,N2L *,*-5-1964,Cervical cancer
+*,F,*,N2L *,*-*-1975,Scarlet fever
+*,F,*,N2L *,*-5-1988,Avian Influenza
+*,F,*,N2L *,*-*-1961,Conjunctivitis
+*,F,*,N2L *,*-*-1971,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1972,Mumps
+*,F,*,N2L *,*-*-1981,Typhoid fever
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-*-1961,Avian Influenza
+*,F,*,N2L *,*-*-1977,Yellow fever
+*,F,*,N2L *,*-*-1982,Chlamydia
+*,F,*,N2L *,*-*-1969,Chicago disease
+*,F,*,N2L *,*-*-1974,German measles
+*,F,*,N2L *,*-*-1987,Gingivitis
+*,F,*,N2L *,*-*-1980,Hepatitis B
+*,F,*,N2L *,*-*-1967,Hamburger disease
+*,F,*,N2L *,*-*-1979,Malaria
+*,F,*,N2L *,*-*-1985,Chicago disease
+*,F,*,N2L *,*-2-1964,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1977,Chlamydia
+*,F,*,N2L *,*-*-1975,Dandy fever
+*,F,*,N2L *,*-*-1983,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1971,Chlamydia
+*,F,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-5-1964,Blastomycosis
+*,F,*,N2L *,*-*-1967,North American blastomycosis
+*,F,*,N2L *,*-4-1964,Tapeworm infections
+*,F,*,N2L *,*-*-1969,Chlamydia
+*,F,*,N2L *,*-*-1964,Conjunctivitis
+*,F,*,N2L *,*-*-1963,Avian Influenza
+*,F,*,N2L *,*-*-1988,Avian Influenza
+*,F,*,N2L *,*-*-1972,Malaria
+*,F,*,N2L *,*-*-1967,Dandy fever
+*,F,*,N2L *,*-*-1975,Conjunctivitis
+*,F,*,N2L *,*-*-1979,Avian Influenza
+*,F,*,N2L *,*-*-1984,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-4-1978,Chlamydia
+*,F,*,N2L *,*-*-1978,Chlamydia
+*,F,*,N2L *,*-*-1982,Scarlet fever
+*,F,*,N2L *,*-*-1967,Tapeworm infections
+*,F,*,N2L *,*-*-1977,Chickenpox
+*,F,*,N2L *,*-*-1982,Dandy fever
+*,F,*,N2L *,*-*-1976,Conjunctivitis
+*,F,*,N2L *,*-*-1979,Chlamydia
+*,F,*,N2L *,*-*-1967,Hamburger disease
+*,F,*,N2L *,*-*-1974,Chicago disease
+*,F,*,N2L *,*-*-1963,Yellow fever
+*,F,*,N2L *,*-*-1974,German measles
+*,F,*,N2L *,*-*-1975,Reiter Syndrome
+*,F,*,N2L *,*-*-1966,German measles
+*,F,*,N2L *,*-*-1978,Conjunctivitis
+*,F,*,N2L *,*-*-1988,Scarlet fever
+*,F,*,N2L *,*-*-1967,Chickenpox
+*,F,*,N2L *,*-*-1978,Chlamydia
+*,F,*,N2L *,*-*-1973,Typhoid fever
+*,F,*,N2L *,*-*-1970,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1984,Malaria
+*,F,*,N2L *,*-*-1983,Gingivitis
+*,F,*,N2L *,*-*-1966,Typhoid fever
+*,F,*,N2L *,*-*-1982,Endothrix
+*,F,*,N2L *,*-*-1966,Avian Influenza
+*,F,*,N2L *,*-*-1973,Avian Influenza
+*,F,*,N2L *,*-*-1968,Avian Influenza
+*,F,*,N2L *,*-*-1981,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1975,Infantile diarrhea
+*,F,*,N2L *,*-*-1974,Avian Influenza
+*,F,*,N2L *,*-*-1961,Chickenpox
+*,F,*,N2L *,*-*-1978,Chickenpox
+*,F,*,N2L *,*-*-1980,Yellow fever
+*,F,*,N2L *,*-*-1960,Conjunctivitis
+*,F,*,N2L *,*-*-1969,Conjunctivitis
+*,F,*,N2L *,*-*-1963,Amebiasis
+*,F,*,N2L *,*-*-1968,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1965,Haemophilus Influenza
+*,F,*,N2L *,*-4-1964,Typhoid fever
+*,F,*,N2L *,*-*-1966,Infantile diarrhea
+*,F,*,N2L *,*-*-1973,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1981,Conjunctivitis
+*,F,*,N2L *,*-*-1975,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1960,Malaria
+*,F,*,N2L *,*-*-1965,Malaria
+*,F,*,N2L *,*-*-1969,Cervical cancer
+*,F,*,N2L *,*-*-1978,Diphtheria
+*,F,*,N2L *,*-4-1964,Endothrix
+*,F,*,N2L *,*-*-1970,Chlamydia psittaci
+*,F,*,N2L *,*-*-1962,Haemophilus Influenza
+*,F,*,N2L *,*-*-1964,Endothrix
+*,F,*,N2L *,*-11-1988,Conjunctivitis
+*,F,*,N2L *,*-*-1972,Malaria
+*,F,*,N2L *,*-*-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1975,Chlamydia
+*,F,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1970,Amebiasis
+*,F,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1976,German measles
+*,F,*,N2L *,*-*-1968,Reiter Syndrome
+*,F,*,N2L *,*-*-1964,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1988,Haemophilus Influenza
+*,F,*,N2L *,*-*-1986,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1982,Chickenpox
+*,F,*,N2L *,*-*-1968,Chlamydial infection
+*,F,*,N2L *,*-*-1984,Hepatitis B
+*,F,*,N2L *,*-*-1962,Chickenpox
+*,F,*,N2L *,*-*-1967,Chlamydia
+*,F,*,N2L *,*-*-1961,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1982,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1970,Hepatitis B
+*,F,*,N2L *,*-*-1979,Scarlet fever
+*,F,*,N2L *,*-*-1964,Conjunctivitis
+*,F,*,N2L *,*-*-1978,Chickenpox
+*,F,*,N2L *,*-*-1969,Chlamydia
+*,F,*,N2L *,*-*-1979,Hepatitis B
+*,F,*,N2L *,*-*-1981,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1962,Avian Influenza
+*,F,*,N2L *,*-5-1988,Dandy fever
+*,F,*,N2L *,*-*-1970,Conjunctivitis
+*,F,*,N2L *,*-*-1976,Avian Influenza
+*,F,*,N2L *,*-*-1969,Chickenpox
+*,F,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1985,Chlamydia
+*,F,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1968,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-10-1977,Conjunctivitis
+*,F,*,N2L *,*-*-1980,Mumps
+*,F,*,N2L *,*-*-1988,Reiter Syndrome
+*,F,*,N2L *,*-*-1965,Chlamydia
+*,F,*,N2L *,*-*-1969,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1975,Hepatitis B
+*,F,*,N2L *,*-*-1987,Dandy fever
+*,F,*,N2L *,*-*-1981,Chickenpox
+*,F,*,N2L *,*-6-1963,Conjunctivitis
+*,F,*,N2L *,*-*-1984,Hepatitis B
+*,F,*,N2L *,*-*-1978,Infantile diarrhea
+*,F,*,N2L *,*-*-1976,Haemophilus Influenza
+*,F,*,N2L *,*-*-1966,Conjunctivitis
+*,F,*,N2L *,*-*-1977,Chlamydial infection
+*,F,*,N2L *,*-*-1984,Hepatitis B
+*,F,*,N2L *,*-*-1964,Conjunctivitis
+*,F,*,N2L *,*-*-1972,Conjunctivitis
+*,F,*,N2L *,*-11-1988,Chickenpox
+*,F,*,N2L *,*-*-1984,Conjunctivitis
+*,F,*,N2L *,*-*-1984,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1973,Tapeworm infections
+*,F,*,N2L *,*-*-1976,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1970,Avian Influenza
+*,F,*,N2L *,*-*-1982,Amebiasis
+*,F,*,N2L *,*-*-1983,Endothrix
+*,F,*,N2L *,*-*-1987,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1968,Chlamydia
+*,F,*,N2L *,*-*-1981,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1979,Hepatitis B
+*,F,*,N2L *,*-*-1964,Malaria
+*,F,*,N2L *,*-4-1978,Hamburger disease
+*,F,*,N2L *,*-*-1969,North American blastomycosis
+*,F,*,N2L *,*-*-1979,Chickenpox
+*,F,*,N2L *,*-*-1981,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1962,Conjunctivitis
+*,F,*,N2L *,*-*-1988,Chlamydia
+*,F,*,N2L *,*-*-1970,Avian Influenza
+*,F,*,N2L *,*-*-1976,Blastomycosis
+*,F,*,N2L *,*-*-1969,Chlamydia
+*,F,*,N2L *,*-*-1969,Yellow fever
+*,F,*,N2L *,*-*-1985,Avian Influenza
+*,F,*,N2L *,*-*-1969,Chlamydia
+*,F,*,N2L *,*-*-1968,Avian Influenza
+*,F,*,N2L *,*-*-1977,Scarlet fever
+*,F,*,N2L *,*-*-1980,Chlamydia psittaci
+*,F,*,N2L *,*-11-1988,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1965,Haemophilus Influenza
+*,F,*,N2L *,*-*-1969,Infantile diarrhea
+*,F,*,N2L *,*-*-1975,Cervical cancer
+*,F,*,N2L *,*-*-1987,Conjunctivitis
+*,F,*,N2L *,*-*-1981,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1963,Diphtheria
+*,F,*,N2L *,*-*-1984,Chickenpox
+*,F,*,N2L *,*-4-1978,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1976,Hepatitis B
+*,F,*,N2L *,*-*-1966,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1977,Chlamydia
+*,F,*,N2L *,*-*-1984,Avian Influenza
+*,F,*,N2L *,*-*-1964,Amebiasis
+*,F,*,N2L *,*-*-1972,Haemophilus Influenza
+*,F,*,N2L *,*-*-1988,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1984,German measles
+*,F,*,N2L *,*-*-1984,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1973,Chlamydia psittaci
+*,F,*,N2L *,*-*-1976,Blastomycosis
+*,F,*,N2L *,*-*-1970,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1982,Dandy fever
+*,F,*,N2L *,*-*-1983,Cervical cancer
+*,F,*,N2L *,*-*-1972,Malaria
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-*-1961,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1972,Endothrix
+*,F,*,N2L *,*-*-1986,Avian Influenza
+*,F,*,N2L *,*-*-1968,Chlamydial infection
+*,F,*,N2L *,*-*-1966,Tapeworm infections
+*,F,*,N2L *,*-*-1963,Avian Influenza
+*,F,*,N2L *,*-*-1982,Hepatitis B
+*,F,*,N2L *,*-*-1984,Chicago disease
+*,F,*,N2L *,*-*-1985,North American blastomycosis
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-*-1969,Gingivitis
+*,F,*,N2L *,*-*-1979,Hepatitis B
+*,F,*,N2L *,*-*-1964,Tapeworm infections
+*,F,*,N2L *,*-*-1975,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1988,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1961,Yellow fever
+*,F,*,N2L *,*-*-1971,Mumps
+*,F,*,N2L *,*-*-1972,Hepatitis B
+*,F,*,N2L *,*-*-1981,Cervical cancer
+*,F,*,N2L *,*-*-1974,Conjunctivitis
+*,F,*,N2L *,*-*-1961,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1977,Conjunctivitis
+*,F,*,N2L *,*-*-1982,Chlamydia
+*,F,*,N2L *,*-*-1969,Scarlet fever
+*,F,*,N2L *,*-*-1974,Diphtheria
+*,F,*,N2L *,*-*-1987,Chickenpox
+*,F,*,N2L *,*-*-1980,Chlamydia
+*,F,*,N2L *,*-*-1967,Amebiasis
+*,F,*,N2L *,*-*-1979,Mumps
+*,F,*,N2L *,*-*-1985,Endothrix
+*,F,*,N2L *,*-4-1964,Mumps
+*,F,*,N2L *,*-*-1977,Dandy fever
+*,F,*,N2L *,*-*-1975,Hepatitis B
+*,F,*,N2L *,*-*-1983,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1971,Chickenpox
+*,F,*,N2L *,*-*-1977,Malaria
+*,F,*,N2L *,*-*-1964,Tapeworm infections
+*,F,*,N2L *,*-*-1967,Mumps
+*,F,*,N2L *,*-2-1964,Cervical cancer
+*,F,*,N2L *,*-*-1969,Gingivitis
+*,F,*,N2L *,*-5-1964,Reiter Syndrome
+*,F,*,N2L *,*-*-1963,Avian Influenza
+*,F,*,N2L *,*-*-1980,Blastomycosis
+*,F,*,N2L *,*-*-1964,Chlamydia
+*,F,*,N2L *,*-*-1972,Hepatitis B
+*,F,*,N2L *,*-*-1977,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1984,German measles
+*,F,*,N2L *,*-*-1978,Diphtheria
+*,F,*,N2L *,*-*-1978,Yellow fever
+*,F,*,N2L *,*-*-1982,Malaria
+*,F,*,N2L *,*-*-1967,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1977,Hepatitis B
+*,F,*,N2L *,*-*-1982,Chlamydia
+*,F,*,N2L *,*-*-1976,Chlamydia psittaci
+*,F,*,N2L *,*-*-1979,Mumps
+*,F,*,N2L *,*-*-1967,Chickenpox
+*,F,*,N2L *,*-*-1974,Chickenpox
+*,F,*,N2L *,*-*-1963,Diphtheria
+*,F,*,N2L *,*-*-1974,Avian Influenza
+*,M,*,N2L *,*-*-1975,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1966,Dandy fever
+*,M,*,N2L *,*-*-1978,Avian Influenza
+*,M,*,N2L *,*-*-1988,Hepatitis B
+*,M,*,N2L *,*-*-1967,Hepatitis B
+*,M,*,N2L *,*-*-1978,Chlamydia
+*,M,*,N2L *,*-*-1973,Avian Influenza
+*,M,*,N2L *,*-*-1970,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1984,Chickenpox
+*,M,*,N2L *,*-*-1983,Endothrix
+*,M,*,N2L *,*-*-1966,Conjunctivitis
+*,M,*,N2L *,*-*-1982,Reiter Syndrome
+*,M,*,N2L *,*-*-1966,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1973,Chickenpox
+*,M,*,N2L *,*-*-1968,Diphtheria
+*,M,*,N2L *,*-*-1983,Tapeworm infections
+*,M,*,N2L *,*-*-1981,Reiter Syndrome
+*,M,*,N2L *,*-*-1967,Conjunctivitis
+*,M,*,N2L *,*-*-1966,Chicago disease
+*,M,*,N2L *,*-*-1971,Conjunctivitis
+*,M,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1975,Infantile diarrhea
+*,M,*,N2L *,*-*-1988,Scarlet fever
+*,M,*,N2L *,*-*-1970,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1966,Blastomycosis
+*,M,*,N2L *,*-*-1966,Tapeworm infections
+*,M,*,N2L *,*-*-1978,Amebiasis
+*,M,*,N2L *,*-*-1974,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1972,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1968,Chlamydial infection
+*,M,*,N2L *,*-*-1984,Yellow fever
+*,M,*,N2L *,*-*-1964,Haemophilus Influenza
+*,M,*,N2L *,*-*-1973,Mumps
+*,M,*,N2L *,*-*-1985,Amebiasis
+*,M,*,N2L *,*-*-1977,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1961,Chlamydia
+*,M,*,N2L *,*-*-1963,Reiter Syndrome
+*,M,*,N2L *,*-*-1980,Yellow fever
+*,M,*,N2L *,*-*-1985,Malaria
+*,M,*,N2L *,*-*-1962,Cervical cancer
+*,M,*,N2L *,*-*-1977,Chlamydia
+*,M,*,N2L *,*-*-1961,Blastomycosis
+*,M,*,N2L *,*-*-1980,German measles
+*,M,*,N2L *,*-*-1965,Conjunctivitis
+*,M,*,N2L *,*-*-1985,Amebiasis
+*,M,*,N2L *,*-*-1977,Scarlet fever
+*,M,*,N2L *,*-*-1988,Hepatitis B
+*,M,*,N2L *,*-*-1981,Hepatitis B
+*,M,*,N2L *,*-*-1971,Endothrix
+*,M,*,N2L *,*-*-1981,Yellow fever
+*,M,*,N2L *,*-*-1975,Tapeworm infections
+*,M,*,N2L *,*-*-1974,Hepatitis B
+*,M,*,N2L *,*-*-1961,Endothrix
+*,M,*,N2L *,*-*-1978,North American blastomycosis
+*,M,*,N2L *,*-*-1980,Typhoid fever
+*,M,*,N2L *,*-*-1960,Conjunctivitis
+*,M,*,N2L *,*-*-1969,Chickenpox
+*,M,*,N2L *,*-*-1963,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1968,Hepatitis B
+*,M,*,N2L *,*-*-1965,Typhoid fever
+*,M,*,N2L *,*-*-1964,Chlamydia
+*,M,*,N2L *,*-*-1966,Blastomycosis
+*,M,*,N2L *,*-*-1973,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1981,Conjunctivitis
+*,M,*,N2L *,*-*-1975,Malaria
+*,M,*,N2L *,*-*-1960,Scarlet fever
+*,M,*,N2L *,*-*-1965,Conjunctivitis
+*,M,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1978,Conjunctivitis
+*,M,*,N2L *,*-*-1964,Mumps
+*,M,*,N2L *,*-*-1970,Chickenpox
+*,M,*,N2L *,*-*-1962,Chlamydia
+*,M,*,N2L *,*-*-1964,Yellow fever
+*,M,*,N2L *,*-*-1988,Tapeworm infections
+*,M,*,N2L *,*-*-1972,Chickenpox
+*,M,*,N2L *,*-*-1967,Mumps
+*,M,*,N2L *,*-*-1975,Chicago disease
+*,M,*,N2L *,*-*-1979,Chlamydia
+*,M,*,N2L *,*-*-1970,Conjunctivitis
+*,M,*,N2L *,*-*-1980,Chlamydia psittaci
+*,M,*,N2L *,*-*-1976,North American blastomycosis
+*,M,*,N2L *,*-*-1968,Haemophilus Influenza
+*,M,*,N2L *,*-*-1964,Hepatitis B
+*,M,*,N2L *,*-*-1988,Chicago disease
+*,M,*,N2L *,*-*-1980,Hamburger disease
+*,M,*,N2L *,*-*-1982,Chickenpox
+*,M,*,N2L *,*-*-1968,Reiter Syndrome
+*,M,*,N2L *,*-*-1984,German measles
+*,M,*,N2L *,*-*-1962,Avian Influenza
+*,M,*,N2L *,*-*-1967,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1961,Gingivitis
+*,M,*,N2L *,*-*-1982,Conjunctivitis
+*,M,*,N2L *,*-*-1970,Chickenpox
+*,M,*,N2L *,*-*-1975,Amebiasis
+*,M,*,N2L *,*-*-1960,Yellow fever
+*,M,*,N2L *,*-*-1965,Chlamydia
+*,M,*,N2L *,*-*-1972,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1963,Chickenpox
+*,M,*,N2L *,*-*-1981,Hamburger disease
+*,M,*,N2L *,*-*-1979,Chlamydia
+*,M,*,N2L *,*-*-1964,Scarlet fever
+*,M,*,N2L *,*-*-1978,Dandy fever
+*,M,*,N2L *,*-*-1969,Chicago disease
+*,M,*,N2L *,*-*-1979,Chlamydia psittaci
+*,M,*,N2L *,*-*-1981,Yellow fever
+*,M,*,N2L *,*-*-1962,Chlamydia
+*,M,*,N2L *,*-*-1988,Chlamydia
+*,M,*,N2L *,*-*-1970,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1976,Chickenpox
+*,M,*,N2L *,*-*-1969,Reiter Syndrome
+*,M,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1985,Yellow fever
+*,M,*,N2L *,*-*-1969,Hamburger disease
+*,M,*,N2L *,*-*-1968,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1977,Chlamydia psittaci
+*,M,*,N2L *,*-*-1980,Yellow fever
+*,M,*,N2L *,*-*-1988,Yellow fever
+*,M,*,N2L *,*-*-1965,Hepatitis B
+*,M,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1975,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1980,Chickenpox
+*,M,*,N2L *,*-*-1981,German measles
+*,M,*,N2L *,*-*-1963,Malaria
+*,M,*,N2L *,*-*-1984,Gingivitis
+*,M,*,N2L *,*-*-1978,German measles
+*,M,*,N2L *,*-*-1976,Typhoid fever
+*,M,*,N2L *,*-*-1966,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1984,Hamburger disease
+*,M,*,N2L *,*-*-1964,Dandy fever
+*,M,*,N2L *,*-*-1972,Reiter Syndrome
+*,M,*,N2L *,*-*-1988,Infantile diarrhea
+*,M,*,N2L *,*-*-1984,Avian Influenza
+*,M,*,N2L *,*-*-1984,Malaria
+*,M,*,N2L *,*-*-1973,Chlamydia
+*,M,*,N2L *,*-*-1976,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1970,Yellow fever
+*,M,*,N2L *,*-*-1982,Hamburger disease
+*,M,*,N2L *,*-*-1983,Chlamydial infection
+*,M,*,N2L *,*-*-1972,Typhoid fever
+*,M,*,N2L *,*-*-1974,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1961,Cervical cancer
+*,M,*,N2L *,*-*-1972,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1980,Typhoid fever
+*,M,*,N2L *,*-*-1968,Conjunctivitis
+*,M,*,N2L *,*-*-1966,Endothrix
+*,M,*,N2L *,*-*-1963,Chickenpox
+*,M,*,N2L *,*-*-1982,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1984,Reiter Syndrome
+*,M,*,N2L *,*-*-1985,Yellow fever
+*,M,*,N2L *,*-*-1974,Gingivitis
+*,M,*,N2L *,*-*-1969,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1964,Chickenpox
+*,M,*,N2L *,*-*-1975,Chlamydia
+*,M,*,N2L *,*-*-1988,Avian Influenza
+*,M,*,N2L *,*-*-1961,Hepatitis B
+*,M,*,N2L *,*-*-1971,Chickenpox
+*,M,*,N2L *,*-*-1972,Chickenpox
+*,F,*,N2L *,*-*-1981,Hepatitis B
+*,F,*,N2L *,*-*-1974,Chlamydia
+*,F,*,N2L *,*-*-1961,Blastomycosis
+*,F,*,N2L *,*-*-1975,German measles
+*,F,*,N2L *,*-*-1960,Conjunctivitis
+*,F,*,N2L *,*-*-1965,Mumps
+*,F,*,N2L *,*-*-1972,North American blastomycosis
+*,F,*,N2L *,*-*-1963,Typhoid fever
+*,F,*,N2L *,*-*-1974,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1973,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1960,Chlamydia
+*,F,*,N2L *,*-11-1988,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1984,Chlamydia
+*,F,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1978,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1977,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1982,Diphtheria
+*,F,*,N2L *,*-*-1969,Dandy fever
+*,F,*,N2L *,*-*-1974,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1987,Chlamydia
+*,F,*,N2L *,*-*-1980,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1967,Chlamydia
+*,F,*,N2L *,*-*-1979,Chlamydia
+*,F,*,N2L *,*-*-1985,Amebiasis
+*,F,*,N2L *,*-*-1964,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1977,Conjunctivitis
+*,F,*,N2L *,*-*-1975,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1983,Chlamydia
+*,F,*,N2L *,*-*-1971,Yellow fever
+*,F,*,N2L *,*-*-1977,Yellow fever
+*,F,*,N2L *,*-*-1964,Chlamydia
+*,F,*,N2L *,*-9-1967,Chlamydia
+*,F,*,N2L *,*-*-1964,Typhoid fever
+*,F,*,N2L *,*-*-1969,Diphtheria
+*,F,*,N2L *,*-4-1964,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1963,Infantile diarrhea
+*,F,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1964,Blastomycosis
+*,F,*,N2L *,*-*-1972,Mumps
+*,F,*,N2L *,*-10-1977,Mumps
+*,F,*,N2L *,*-*-1984,Chlamydia
+*,F,*,N2L *,*-*-1978,Tapeworm infections
+*,F,*,N2L *,*-*-1978,North American blastomycosis
+*,F,*,N2L *,*-*-1966,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1963,Diphtheria
+*,F,*,N2L *,*-*-1982,Gingivitis
+*,F,*,N2L *,*-*-1984,Chickenpox
+*,F,*,N2L *,*-*-1985,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1974,Chicago disease
+*,F,*,N2L *,*-*-1969,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-4-1964,Chlamydia psittaci
+*,M,*,N2L *,*-*-1975,Avian Influenza
+*,M,*,N2L *,*-*-1988,Hepatitis B
+*,M,*,N2L *,*-*-1961,Chlamydia psittaci
+*,M,*,N2L *,*-*-1971,Typhoid fever
+*,M,*,N2L *,*-*-1972,Typhoid fever
+*,M,*,N2L *,*-*-1981,Diphtheria
+*,M,*,N2L *,*-*-1974,Chlamydia
+*,M,*,N2L *,*-*-1961,Hepatitis B
+*,M,*,N2L *,*-*-1982,Chlamydia
+*,M,*,N2L *,*-*-1967,Scarlet fever
+*,M,*,N2L *,*-*-1977,Yellow fever
+*,M,*,N2L *,*-*-1982,German measles
+*,M,*,N2L *,*-*-1976,Dandy fever
+*,M,*,N2L *,*-*-1979,Avian Influenza
+*,M,*,N2L *,*-*-1967,Mumps
+*,M,*,N2L *,*-*-1974,Chlamydia
+*,M,*,N2L *,*-*-1963,Typhoid fever
+*,F,*,N2L *,*-*-1974,Blastomycosis
+*,F,*,N2L *,*-*-1975,Endothrix
+*,F,*,N2L *,*-*-1966,Chlamydia
+*,F,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1988,Hepatitis B
+*,F,*,N2L *,*-*-1967,Mumps
+*,F,*,N2L *,*-*-1978,German measles
+*,M,*,N2L *,*-*-1973,Scarlet fever
+*,M,*,N2L *,*-*-1970,Chicago disease
+*,M,*,N2L *,*-*-1984,North American blastomycosis
+*,F,*,N2L *,*-*-1983,Mumps
+*,F,*,N2L *,*-*-1966,Diphtheria
+*,M,*,N2L *,*-*-1982,Cervical cancer
+*,F,*,N2L *,*-*-1966,Gingivitis
+*,F,*,N2L *,*-*-1973,Dandy fever
+*,M,*,N2L *,*-*-1968,Endothrix
+*,M,*,N2L *,*-*-1983,Conjunctivitis
+*,M,*,N2L *,*-*-1981,Malaria
+*,F,*,N2L *,*-*-1967,Diphtheria
+*,F,*,N2L *,*-*-1966,Cervical cancer
+*,F,*,N2L *,*-*-1971,North American blastomycosis
+*,F,*,N2L *,*-*-1987,Tapeworm infections
+*,M,*,N2L *,*-*-1975,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1988,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1970,Chickenpox
+*,M,*,N2L *,*-*-1966,Gingivitis
+*,M,*,N2L *,*-*-1966,Haemophilus Influenza
+*,M,*,N2L *,*-*-1978,Typhoid fever
+*,F,*,N2L *,*-*-1974,German measles
+*,F,*,N2L *,*-*-1972,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1968,Conjunctivitis
+*,M,*,N2L *,*-*-1984,North American blastomycosis
+*,M,*,N2L *,*-*-1964,Chlamydia
+*,F,*,N2L *,*-*-1973,Chickenpox
+*,F,*,N2L *,*-*-1985,Avian Influenza
+*,M,*,N2L *,*-*-1977,Chlamydia psittaci
+*,F,*,N2L *,*-*-1961,Conjunctivitis
+*,F,*,N2L *,*-*-1963,Chickenpox
+*,F,*,N2L *,*-*-1987,Infantile diarrhea
+*,F,*,N2L *,*-*-1985,Gingivitis
+*,M,*,N2L *,*-*-1962,Mumps
+*,F,*,N2L *,*-10-1977,Scarlet fever
+*,F,*,N2L *,*-*-1961,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1980,Chickenpox
+*,F,*,N2L *,*-*-1965,Avian Influenza
+*,M,*,N2L *,*-*-1985,Chlamydia psittaci
+*,M,*,N2L *,*-*-1977,Chlamydia
+*,F,*,N2L *,*-11-1988,Hamburger disease
+*,M,*,N2L *,*-*-1981,Cervical cancer
+*,M,*,N2L *,*-*-1971,Haemophilus Influenza
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,M,*,N2L *,*-*-1975,Yellow fever
+*,M,*,N2L *,*-*-1974,Yellow fever
+*,F,*,N2L *,*-*-1961,Chickenpox
+*,M,*,N2L *,*-*-1978,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1980,Reiter Syndrome
+*,M,*,N2L *,*-*-1960,Chlamydia
+*,F,*,N2L *,*-*-1969,German measles
+*,F,*,N2L *,*-*-1963,Typhoid fever
+*,F,*,N2L *,*-*-1968,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1965,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-4-1964,Mumps
+*,F,*,N2L *,*-*-1966,Chickenpox
+*,F,*,N2L *,*-*-1973,Infantile diarrhea
+*,F,*,N2L *,*-*-1981,Mumps
+*,F,*,N2L *,*-*-1975,Malaria
+*,F,*,N2L *,*-*-1960,Typhoid fever
+*,F,*,N2L *,*-*-1965,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1969,Chlamydia
+*,F,*,N2L *,*-*-1978,Gingivitis
+*,F,*,N2L *,*-2-1964,Blastomycosis
+*,F,*,N2L *,*-*-1970,Chlamydial infection
+*,F,*,N2L *,*-*-1962,Chickenpox
+*,F,*,N2L *,*-2-1964,Typhoid fever
+*,F,*,N2L *,*-*-1988,Cervical cancer
+*,F,*,N2L *,*-*-1972,Chlamydia
+*,F,*,N2L *,*-*-1967,Yellow fever
+*,F,*,N2L *,*-*-1975,Typhoid fever
+*,F,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1970,Chicago disease
+*,F,*,N2L *,*-*-1980,Endothrix
+*,F,*,N2L *,*-*-1976,Hamburger disease
+*,F,*,N2L *,*-*-1968,Chickenpox
+*,F,*,N2L *,*-*-1964,German measles
+*,F,*,N2L *,*-*-1988,Conjunctivitis
+*,M,*,N2L *,*-*-1980,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1982,Reiter Syndrome
+*,F,*,N2L *,*-*-1968,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1984,Chlamydia psittaci
+*,F,*,N2L *,*-*-1962,Yellow fever
+*,F,*,N2L *,*-9-1967,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1961,Hepatitis B
+*,F,*,N2L *,*-*-1982,Conjunctivitis
+*,F,*,N2L *,*-*-1970,Malaria
+*,F,*,N2L *,*-*-1975,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1960,Mumps
+*,M,*,N2L *,*-*-1965,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1972,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1963,Chicago disease
+*,M,*,N2L *,*-*-1981,Chlamydia
+*,M,*,N2L *,*-*-1979,Chickenpox
+*,M,*,N2L *,*-*-1964,Gingivitis
+*,M,*,N2L *,*-*-1978,Chickenpox
+*,M,*,N2L *,*-*-1969,Malaria
+*,M,*,N2L *,*-*-1979,Chlamydia psittaci
+*,M,*,N2L *,*-*-1981,Amebiasis
+*,F,*,N2L *,*-*-1962,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-5-1988,Chlamydia psittaci
+*,F,*,N2L *,*-*-1970,Chlamydia
+*,F,*,N2L *,*-*-1976,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1969,Chlamydial infection
+*,F,*,N2L *,*-*-1969,Endothrix
+*,F,*,N2L *,*-*-1985,Blastomycosis
+*,F,*,N2L *,*-*-1969,Reiter Syndrome
+*,F,*,N2L *,*-*-1968,Malaria
+*,F,*,N2L *,*-*-1977,Cervical cancer
+*,F,*,N2L *,*-*-1980,Typhoid fever
+*,F,*,N2L *,*-11-1988,Chlamydia psittaci
+*,F,*,N2L *,*-*-1965,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1969,Infantile diarrhea
+*,F,*,N2L *,*-*-1975,Dandy fever
+*,F,*,N2L *,*-*-1987,Chickenpox
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,F,*,N2L *,*-*-1963,Chickenpox
+*,F,*,N2L *,*-*-1984,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-4-1978,Cervical cancer
+*,F,*,N2L *,*-*-1976,Chlamydia
+*,F,*,N2L *,*-*-1966,Hamburger disease
+*,F,*,N2L *,*-*-1977,German measles
+*,F,*,N2L *,*-*-1984,Scarlet fever
+*,F,*,N2L *,*-*-1964,Haemophilus Influenza
+*,F,*,N2L *,*-*-1972,Chlamydia
+*,F,*,N2L *,*-*-1988,Amebiasis
+*,F,*,N2L *,*-*-1984,Typhoid fever
+*,F,*,N2L *,*-*-1984,North American blastomycosis
+*,F,*,N2L *,*-*-1973,Scarlet fever
+*,F,*,N2L *,*-*-1976,Hamburger disease
+*,F,*,N2L *,*-*-1970,Reiter Syndrome
+*,F,*,N2L *,*-*-1982,Reiter Syndrome
+*,F,*,N2L *,*-*-1983,Cervical cancer
+*,F,*,N2L *,*-*-1972,Chickenpox
+*,F,*,N2L *,*-9-1974,Chlamydia
+*,F,*,N2L *,*-*-1961,Cervical cancer
+*,F,*,N2L *,*-*-1972,Chlamydia psittaci
+*,F,*,N2L *,*-*-1986,Hepatitis B
+*,F,*,N2L *,*-*-1968,Gingivitis
+*,F,*,N2L *,*-*-1977,Malaria
+*,F,*,N2L *,*-*-1982,Malaria
+*,F,*,N2L *,*-*-1969,Hepatitis B
+*,F,*,N2L *,*-*-1974,Yellow fever
+*,F,*,N2L *,*-*-1987,Chickenpox
+*,F,*,N2L *,*-*-1980,Chlamydia
+*,F,*,N2L *,*-*-1967,Chickenpox
+*,F,*,N2L *,*-*-1979,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1985,German measles
+*,M,*,N2L *,*-*-1964,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1977,Hamburger disease
+*,F,*,N2L *,*-*-1975,Conjunctivitis
+*,F,*,N2L *,*-*-1983,Conjunctivitis
+*,F,*,N2L *,*-*-1971,Mumps
+*,F,*,N2L *,*-10-1977,Diphtheria
+*,F,*,N2L *,*-4-1964,Avian Influenza
+*,F,*,N2L *,*-*-1967,Chicago disease
+*,F,*,N2L *,*-*-1964,Hamburger disease
+*,F,*,N2L *,*-*-1969,German measles
+*,F,*,N2L *,*-*-1964,Chlamydia
+*,F,*,N2L *,*-*-1963,Diphtheria
+*,F,*,N2L *,*-*-1980,Typhoid fever
+*,F,*,N2L *,*-*-1964,Chicago disease
+*,M,*,N2L *,*-*-1972,Typhoid fever
+*,M,*,N2L *,*-*-1977,Chickenpox
+*,M,*,N2L *,*-*-1984,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1978,Hamburger disease
+*,F,*,N2L *,*-*-1978,Cervical cancer
+*,F,*,N2L *,*-*-1982,Yellow fever
+*,F,*,N2L *,*-9-1967,Gingivitis
+*,F,*,N2L *,*-*-1977,SARS- Severe Acute Respiratory Syndrome
+*,F,*,N2L *,*-*-1982,Chickenpox
+*,F,*,N2L *,*-*-1976,Haemophilus Influenza
+*,F,*,N2L *,*-*-1979,Yellow fever
+*,F,*,N2L *,*-*-1967,Dandy fever
+*,F,*,N2L *,*-*-1974,Cervical cancer
+*,M,*,N2L *,*-*-1963,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1974,Hepatitis B
+*,F,*,N2L *,*-*-1975,Blastomycosis
+*,F,*,N2L *,*-*-1966,Malaria
+*,M,*,N2L *,*-*-1978,Conjunctivitis
+*,M,*,N2L *,*-*-1988,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1967,Diphtheria
+*,F,*,N2L *,*-*-1978,Haemophilus Influenza
+*,M,*,N2L *,*-*-1973,Chlamydia psittaci
+*,M,*,N2L *,*-*-1970,Typhoid fever
+*,M,*,N2L *,*-*-1984,Hepatitis B
+*,M,*,N2L *,*-*-1983,Chlamydia psittaci
+*,F,*,N2L *,*-*-1966,Yellow fever
+*,F,*,N2L *,*-*-1982,Malaria
+*,F,*,N2L *,*-*-1966,Chlamydial infection
+*,F,*,N2L *,*-*-1973,Yellow fever
+*,F,*,N2L *,*-*-1968,Diphtheria
+*,F,*,N2L *,*-*-1983,Diphtheria
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,F,*,N2L *,*-*-1967,Mumps
+*,F,*,N2L *,*-*-1966,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1971,Tapeworm infections
+*,F,*,N2L *,*-*-1987,Amebiasis
+*,F,*,N2L *,*-*-1975,Chlamydia
+*,F,*,N2L *,*-*-1988,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1970,Avian Influenza
+*,F,*,N2L *,*-*-1966,Tapeworm infections
+*,M,*,N2L *,*-*-1966,Hepatitis B
+*,F,*,N2L *,*-4-1978,Conjunctivitis
+*,F,*,N2L *,*-9-1974,Hamburger disease
+*,F,*,N2L *,*-*-1972,Hamburger disease
+*,F,*,N2L *,*-*-1968,Typhoid fever
+*,F,*,N2L *,*-*-1984,Haemophilus Influenza
+*,M,*,N2L *,*-*-1964,North American blastomycosis
+*,M,*,N2L *,*-*-1973,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1985,Conjunctivitis
+*,M,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1961,Haemophilus Influenza
+*,M,*,N2L *,*-*-1963,Chlamydia
+*,M,*,N2L *,*-*-1980,Cervical cancer
+*,M,*,N2L *,*-*-1964,Endothrix
+*,M,*,N2L *,*-*-1972,Chlamydia psittaci
+*,M,*,N2L *,*-*-1977,Yellow fever
+*,M,*,N2L *,*-*-1977,Conjunctivitis
+*,M,*,N2L *,*-*-1961,Yellow fever
+*,M,*,N2L *,*-*-1980,Blastomycosis
+*,M,*,N2L *,*-*-1965,Conjunctivitis
+*,M,*,N2L *,*-*-1985,Haemophilus Influenza
+*,M,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1988,Chlamydial infection
+*,M,*,N2L *,*-*-1981,Amebiasis
+*,M,*,N2L *,*-*-1971,Chicago disease
+*,M,*,N2L *,*-*-1981,Malaria
+*,M,*,N2L *,*-*-1975,Hepatitis B
+*,M,*,N2L *,*-*-1974,Chicago disease
+*,F,*,N2L *,*-*-1963,Dandy fever
+*,F,*,N2L *,*-*-1979,Scarlet fever
+*,M,*,N2L *,*-*-1961,Chlamydia
+*,M,*,N2L *,*-*-1981,Chlamydia
+*,M,*,N2L *,*-*-1967,Chickenpox
+*,M,*,N2L *,*-*-1966,Chickenpox
+*,M,*,N2L *,*-*-1971,Conjunctivitis
+*,F,*,N2L *,*-*-1987,Tapeworm infections
+*,F,*,N2L *,*-*-1975,Yellow fever
+*,M,*,N2L *,*-*-1988,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1970,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1966,Dandy fever
+*,M,*,N2L *,*-*-1966,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1978,North American blastomycosis
+*,F,*,N2L *,*-*-1974,Endothrix
+*,M,*,N2L *,*-*-1972,Diphtheria
+*,F,*,N2L *,*-*-1968,Haemophilus Influenza
+*,F,*,N2L *,*-*-1984,Chicago disease
+*,M,*,N2L *,*-*-1964,Conjunctivitis
+*,M,*,N2L *,*-*-1973,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1985,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1977,Infantile diarrhea
+*,M,*,N2L *,*-*-1961,Chlamydia
+*,F,*,N2L *,*-*-1963,Chlamydia psittaci
+*,F,*,N2L *,*-*-1987,Gingivitis
+*,F,*,N2L *,*-*-1985,Chickenpox
+*,F,*,N2L *,*-*-1983,Chlamydia
+*,F,*,N2L *,*-*-1962,Malaria
+*,M,*,N2L *,*-*-1977,Chickenpox
+*,M,*,N2L *,*-*-1961,Chicago disease
+*,M,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1965,Diphtheria
+*,M,*,N2L *,*-*-1985,Chicago disease
+*,M,*,N2L *,*-*-1977,Reiter Syndrome
+*,M,*,N2L *,*-*-1988,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1981,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1971,Chlamydial infection
+*,F,*,N2L *,*-*-1978,Haemophilus Influenza
+*,F,*,N2L *,*-*-1980,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1960,Chickenpox
+*,F,*,N2L *,*-*-1969,Chickenpox
+*,F,*,N2L *,*-*-1963,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1968,Chlamydia
+*,F,*,N2L *,*-*-1965,Yellow fever
+*,F,*,N2L *,*-*-1964,Diphtheria
+*,M,*,N2L *,*-*-1966,Chicago disease
+*,M,*,N2L *,*-*-1973,North American blastomycosis
+*,M,*,N2L *,*-*-1981,Yellow fever
+*,F,*,N2L *,*-*-1975,Human Pulmonary Syndrome (HPS)
+*,F,*,N2L *,*-*-1960,Infantile diarrhea
+*,M,*,N2L *,*-*-1965,Mycoburuli ulcers
+*,F,*,N2L *,*-*-1969,Infantile diarrhea
+*,F,*,N2L *,*-*-1978,Mumps
+*,F,*,N2L *,*-*-1964,Endothrix
+*,F,*,N2L *,*-*-1970,Endothrix
+*,M,*,N2L *,*-*-1962,Hepatitis B
+*,M,*,N2L *,*-*-1964,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1962,Hepatitis B
+*,F,*,N2L *,*-*-1984,Avian Influenza
+*,M,*,N2L *,*-*-1961,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1972,Chlamydia psittaci
+*,M,*,N2L *,*-*-1980,Chlamydia
+*,M,*,N2L *,*-*-1968,Chlamydia
+*,F,*,N2L *,*-*-1966,Conjunctivitis
+*,F,*,N2L *,*-*-1963,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1982,Chickenpox
+*,F,*,N2L *,*-*-1984,Mycoburuli ulcers
+*,M,*,N2L *,*-*-1985,Haemophilus Influenza
+*,M,*,N2L *,*-*-1974,Chlamydia
+*,M,*,N2L *,*-*-1969,Diphtheria
+*,F,*,N2L *,*-*-1979,Chicago disease
+*,F,*,N2L *,*-*-1964,Haemophilus Influenza
+*,M,*,N2L *,*-*-1975,Yellow fever
+*,F,*,N2L *,*-*-1988,Chlamydia
+*,F,*,N2L *,*-*-1961,Typhoid fever
+*,F,*,N2L *,*-*-1971,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1972,Acquired Immunodeficiency Sydrome (AIDS)
+*,F,*,N2L *,*-*-1981,Chlamydia
+*,M,*,N2L *,*-*-1974,Blastomycosis
+*,F,*,N2L *,*-*-1961,Chicago disease
+*,F,*,N2L *,*-*-1977,Tapeworm infections
+*,M,*,N2L *,*-*-1982,HIV - human immunodeficiency virus
+*,F,*,N2L *,*-*-1969,Malaria
+*,F,*,N2L *,*-*-1974,Hepatitis B
+*,F,*,N2L *,*-*-1987,Chlamydia
+*,F,*,N2L *,*-*-1980,Malaria
+*,F,*,N2L *,*-*-1967,Infantile diarrhea
+*,M,*,N2L *,*-*-1979,Conjunctivitis
+*,F,*,N2L *,*-*-1985,Conjunctivitis
+*,M,*,N2L *,*-*-1964,Chickenpox
+*,M,*,N2L *,*-*-1977,Chlamydia
+*,M,*,N2L *,*-*-1975,Chlamydia psittaci
+*,M,*,N2L *,*-*-1983,Infantile diarrhea
+*,M,*,N2L *,*-*-1971,Mumps
+*,M,*,N2L *,*-*-1977,Chlamydia
+*,M,*,N2L *,*-*-1964,Chlamydia
+*,M,*,N2L *,*-*-1967,Chickenpox
+*,M,*,N2L *,*-*-1964,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1969,Typhoid fever
+*,M,*,N2L *,*-*-1964,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1963,Malaria
+*,M,*,N2L *,*-*-1974,Human Pulmonary Syndrome (HPS)
+*,M,*,N2L *,*-*-1972,Gingivitis
+*,M,*,N2L *,*-*-1968,Hepatitis B
+*,M,*,N2L *,*-*-1984,Malaria
+*,M,*,N2L *,*-*-1964,German measles
+*,M,*,N2L *,*-*-1973,Yellow fever
+*,M,*,N2L *,*-*-1985,Conjunctivitis
+*,M,*,N2L *,*-*-1977,Avian Influenza
+*,M,*,N2L *,*-*-1961,Avian Influenza
+*,M,*,N2L *,*-*-1963,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1980,SARS- Severe Acute Respiratory Syndrome
+*,M,*,N2L *,*-*-1985,Hamburger disease
+*,M,*,N2L *,*-*-1983,North American blastomycosis
+*,M,*,N2L *,*-*-1962,Reiter Syndrome
+*,M,*,N2L *,*-*-1977,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1961,Chickenpox
+*,M,*,N2L *,*-*-1980,Chlamydia
+*,M,*,N2L *,*-*-1965,Conjunctivitis
+*,M,*,N2L *,*-*-1985,Chickenpox
+*,M,*,N2L *,*-*-1977,Haemophilus Influenza
+*,M,*,N2L *,*-*-1988,Chickenpox
+*,M,*,N2L *,*-*-1981,Typhoid fever
+*,M,*,N2L *,*-*-1971,Yellow fever
+*,M,*,N2L *,*-*-1978,HIV - human immunodeficiency virus
+*,M,*,N2L *,*-*-1980,Hamburger disease
+*,M,*,N2L *,*-*-1960,Infantile diarrhea
+*,M,*,N2L *,*-*-1969,Reiter Syndrome
+*,M,*,N2L *,*-*-1963,Cervical cancer
+*,M,*,N2L *,*-*-1968,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1965,Acquired Immunodeficiency Sydrome (AIDS)
+*,M,*,N2L *,*-*-1964,Mumps
